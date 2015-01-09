@@ -1,0 +1,1431 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="BAM I-I Automatic Subgroup">
+   <Day name="Saturday">
+    <Hour name="0700-0755">
+     
+    </Hour>
+    <Hour name="0800-0855">
+     
+    </Hour>
+    <Hour name="0900-0955">
+     
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Ms. Kanyesigye Stella Teddy"></Teacher><Subject name="FOM 1101 Fundumentals of Mathematics"></Subject><Room name="LT 05"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Ms. Kanyesigye Stella Teddy"></Teacher><Subject name="FOM 1101 Fundumentals of Mathematics"></Subject><Room name="LT 05"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Ms. Kanyesigye Stella Teddy"></Teacher><Subject name="FOM 1101 Fundumentals of Mathematics"></Subject><Room name="LT 05"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Mr. Tibyanga Xavier"></Teacher><Subject name="ENG 1101 English Language Grammar"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. Tibyanga Xavier"></Teacher><Subject name="ENG 1101 English Language Grammar"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Mr. Tibyanga Xavier"></Teacher><Subject name="ENG 1101 English Language Grammar"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+     
+    </Hour>
+    <Hour name="1700-1755">
+     
+    </Hour>
+    <Hour name="1800-1855">
+     
+    </Hour>
+    <Hour name="1900-1955">
+     
+    </Hour>
+   </Day>
+   <Day name="Sunday">
+    <Hour name="0700-0755">
+     
+    </Hour>
+    <Hour name="0800-0855">
+     
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Godwin Robert"></Teacher><Subject name="STA 1101 Introduction to Statistics"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Mr. Godwin Robert"></Teacher><Subject name="STA 1101 Introduction to Statistics"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Mr. Godwin Robert"></Teacher><Subject name="STA 1101 Introduction to Statistics"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+     
+    </Hour>
+    <Hour name="1300-1355">
+     
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. Vincent Mutahunga"></Teacher><Subject name="MGT 1101 Principles of Management"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Mr. Vincent Mutahunga"></Teacher><Subject name="MGT 1101 Principles of Management"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Mr. Vincent Mutahunga"></Teacher><Subject name="MGT 1101 Principles of Management"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Kelly Tumwiine"></Teacher><Subject name="EBC 1101 Basic Computer Literacy"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Kelly Tumwiine"></Teacher><Subject name="EBC 1101 Basic Computer Literacy"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Kelly Tumwiine"></Teacher><Subject name="EBC 1101 Basic Computer Literacy"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="BAM I-II Automatic Subgroup">
+   <Day name="Saturday">
+    <Hour name="0700-0755">
+      <Teacher name="Mr. Agaba Banyenzaki James"></Teacher><Subject name="OB 1202 Origanizational Behaviour"></Subject><Room name="LT 04"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Agaba Banyenzaki James"></Teacher><Subject name="OB 1202 Origanizational Behaviour"></Subject><Room name="LT 04"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Agaba Banyenzaki James"></Teacher><Subject name="OB 1202 Origanizational Behaviour"></Subject><Room name="LT 04"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+     
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Ms. Ayebare Peninah"></Teacher><Subject name="ECO 1202 Managerial Economics II"></Subject><Room name="Boardroom"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Ms. Ayebare Peninah"></Teacher><Subject name="ECO 1202 Managerial Economics II"></Subject><Room name="Boardroom"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Ms. Ayebare Peninah"></Teacher><Subject name="ECO 1202 Managerial Economics II"></Subject><Room name="Boardroom"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Dr. Fr. Mbyemeire Patrick (PhD)"></Teacher><Subject name="PIE 1202 Introduction to Ethics"></Subject><Room name="LT 05"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Dr. Fr. Mbyemeire Patrick (PhD)"></Teacher><Subject name="PIE 1202 Introduction to Ethics"></Subject><Room name="LT 05"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Dr. Fr. Mbyemeire Patrick (PhD)"></Teacher><Subject name="PIE 1202 Introduction to Ethics"></Subject><Room name="LT 05"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Godwin Robert"></Teacher><Subject name="QM 1201 Quantitative Methods"></Subject><Room name="Room 4"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Godwin Robert"></Teacher><Subject name="QM 1201 Quantitative Methods"></Subject><Room name="Room 4"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Godwin Robert"></Teacher><Subject name="QM 1201 Quantitative Methods"></Subject><Room name="Room 4"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sunday">
+    <Hour name="0700-0755">
+     
+    </Hour>
+    <Hour name="0800-0855">
+     
+    </Hour>
+    <Hour name="0900-0955">
+     
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Mr. Kelly Tumwiine"></Teacher><Subject name="CSC 1201 Introduction to Information Systems"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Mr. Kelly Tumwiine"></Teacher><Subject name="CSC 1201 Introduction to Information Systems"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Mr. Kelly Tumwiine"></Teacher><Subject name="CSC 1201 Introduction to Information Systems"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+     
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="LIT 1201 Literature and Composition"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="LIT 1201 Literature and Composition"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="LIT 1201 Literature and Composition"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Vincent Mutahunga"></Teacher><Subject name="ACC 1202 Fundamental Accounting II"></Subject><Room name="Boardroom"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Vincent Mutahunga"></Teacher><Subject name="ACC 1202 Fundamental Accounting II"></Subject><Room name="Boardroom"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Vincent Mutahunga"></Teacher><Subject name="ACC 1202 Fundamental Accounting II"></Subject><Room name="Boardroom"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="BAM II-I Automatic Subgroup">
+   <Day name="Saturday">
+    <Hour name="0700-0755">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="BCS 1206 Business Communication Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="BCS 1206 Business Communication Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="BCS 1206 Business Communication Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Dr. Sr. Tumusiime Eva (PhD)"></Teacher><Subject name="COC 1201 Research Methodology I"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Dr. Sr. Tumusiime Eva (PhD)"></Teacher><Subject name="COC 1201 Research Methodology I"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Dr. Sr. Tumusiime Eva (PhD)"></Teacher><Subject name="COC 1201 Research Methodology I"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Mr. Tukamwesiga Jotham"></Teacher><Subject name="POM 2101 Production Operations Management"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. Tukamwesiga Jotham"></Teacher><Subject name="POM 2101 Production Operations Management"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Mr. Tukamwesiga Jotham"></Teacher><Subject name="POM 2101 Production Operations Management"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+     
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Tumusiime Laws Mwije"></Teacher><Subject name="LAW 2101 Law of Contract"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Tumusiime Laws Mwije"></Teacher><Subject name="LAW 2101 Law of Contract"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Tumusiime Laws Mwije"></Teacher><Subject name="LAW 2101 Law of Contract"></Subject><Room name="LT 01"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sunday">
+    <Hour name="0700-0755">
+      <Teacher name="Mr. Atwine Alex"></Teacher><Subject name="LAW 2101 Law of Contract"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Atwine Alex"></Teacher><Subject name="LAW 2101 Law of Contract"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Atwine Alex"></Teacher><Subject name="LAW 2101 Law of Contract"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="bbbbbbbbbbb(IT-2)"></Teacher><Subject name="CSC 2103 Information Systems and Databases"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="bbbbbbbbbbb(IT-2)"></Teacher><Subject name="CSC 2103 Information Systems and Databases"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="bbbbbbbbbbb(IT-2)"></Teacher><Subject name="CSC 2103 Information Systems and Databases"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+     
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Ms. Kyakunzire Annet Mitchel"></Teacher><Subject name="ENT 2101 Basic Principles of Entrepreneurship"></Subject><Room name="Boardroom"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Ms. Kyakunzire Annet Mitchel"></Teacher><Subject name="ENT 2101 Basic Principles of Entrepreneurship"></Subject><Room name="Boardroom"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Ms. Kyakunzire Annet Mitchel"></Teacher><Subject name="ENT 2101 Basic Principles of Entrepreneurship"></Subject><Room name="Boardroom"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Agume Anthony"></Teacher><Subject name="ACC 2103 Intermediate Accounting I"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Agume Anthony"></Teacher><Subject name="ACC 2103 Intermediate Accounting I"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Agume Anthony"></Teacher><Subject name="ACC 2103 Intermediate Accounting I"></Subject><Room name="LT 01"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="BAM II-II Automatic Subgroup">
+   <Day name="Saturday">
+    <Hour name="0700-0755">
+      <Teacher name="Mr. Turyahebwa Paul"></Teacher><Subject name="ACC 2204 Intermediate Accounting II"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Turyahebwa Paul"></Teacher><Subject name="ACC 2204 Intermediate Accounting II"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Turyahebwa Paul"></Teacher><Subject name="ACC 2204 Intermediate Accounting II"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="bbbbbbbb-(BAM-2)"></Teacher><Subject name="COR 2201 Corporate Finance I"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="bbbbbbbb-(BAM-2)"></Teacher><Subject name="COR 2201 Corporate Finance I"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="bbbbbbbb-(BAM-2)"></Teacher><Subject name="COR 2201 Corporate Finance I"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Mr. Banyenzaki James"></Teacher><Subject name="ENT 2102 Entrepreneurship Practice"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. Banyenzaki James"></Teacher><Subject name="ENT 2102 Entrepreneurship Practice"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Mr. Banyenzaki James"></Teacher><Subject name="ENT 2102 Entrepreneurship Practice"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+     
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Tukamwesiga Jotham"></Teacher><Subject name="ACC 2205 Cost Accounting"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Tukamwesiga Jotham"></Teacher><Subject name="ACC 2205 Cost Accounting"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Tukamwesiga Jotham"></Teacher><Subject name="ACC 2205 Cost Accounting"></Subject><Room name="Room 8"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sunday">
+    <Hour name="0700-0755">
+     
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Vucuri Frank"></Teacher><Subject name="PEF 2201 Ethics in Focus"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Vucuri Frank"></Teacher><Subject name="PEF 2201 Ethics in Focus"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Mr. Vucuri Frank"></Teacher><Subject name="PEF 2201 Ethics in Focus"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="CLS 2201Original and critical Language Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="CLS 2201Original and critical Language Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="CLS 2201Original and critical Language Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. Mpagane Valerian"></Teacher><Subject name="CF 2101 Corporate Finance I"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Mr. Mpagane Valerian"></Teacher><Subject name="CF 2101 Corporate Finance I"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Mr. Mpagane Valerian"></Teacher><Subject name="CF 2101 Corporate Finance I"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Ahabwe Edward"></Teacher><Subject name="PRO 2201 Procurement Management Principles"></Subject>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Ahabwe Edward"></Teacher><Subject name="PRO 2201 Procurement Management Principles"></Subject>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Ahabwe Edward"></Teacher><Subject name="PRO 2201 Procurement Management Principles"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="BAM III-I Automatic Subgroup">
+   <Day name="Saturday">
+    <Hour name="0700-0755">
+      <Teacher name="Ms. Tusingwire Claudia"></Teacher><Subject name="HRM 3101 Human Resource Management"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Ms. Tusingwire Claudia"></Teacher><Subject name="HRM 3101 Human Resource Management"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Ms. Tusingwire Claudia"></Teacher><Subject name="HRM 3101 Human Resource Management"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Mr. Mpagane Valerian"></Teacher><Subject name="ACC 3106 Management Accounting"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Mr. Mpagane Valerian"></Teacher><Subject name="ACC 3106 Management Accounting"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Mr. Mpagane Valerian"></Teacher><Subject name="ACC 3106 Management Accounting"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Mr. Tumusiime Laws Mwije"></Teacher><Subject name="LAW 3102 Law of Business Organization"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. Tumusiime Laws Mwije"></Teacher><Subject name="LAW 3102 Law of Business Organization"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Mr. Tumusiime Laws Mwije"></Teacher><Subject name="LAW 3102 Law of Business Organization"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Mr. Tibyanga Xavier"></Teacher><Subject name="BEN 3101 Business English"></Subject><Room name="Lab 02"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Tibyanga Xavier"></Teacher><Subject name="BEN 3101 Business English"></Subject><Room name="Lab 02"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Tibyanga Xavier"></Teacher><Subject name="BEN 3101 Business English"></Subject><Room name="Lab 02"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+     
+    </Hour>
+   </Day>
+   <Day name="Sunday">
+    <Hour name="0700-0755">
+      <Teacher name="Mr. Agume Anthony"></Teacher><Subject name="ACC 3207 Advanced and Public Sector Acounting"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Agume Anthony"></Teacher><Subject name="ACC 3207 Advanced and Public Sector Acounting"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Agume Anthony"></Teacher><Subject name="ACC 3207 Advanced and Public Sector Acounting"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+     
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Mr. Nuwagaba Charles"></Teacher><Subject name="MKT 3201 Marketing Strategies"></Subject><Room name="Room 4"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Mr. Nuwagaba Charles"></Teacher><Subject name="MKT 3201 Marketing Strategies"></Subject><Room name="Room 4"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Mr. Nuwagaba Charles"></Teacher><Subject name="MKT 3201 Marketing Strategies"></Subject><Room name="Room 4"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Ms. Tusingwire Claudia"></Teacher><Subject name="BPO 3101 Business Policy"></Subject><Room name="Room 4"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Ms. Tusingwire Claudia"></Teacher><Subject name="BPO 3101 Business Policy"></Subject><Room name="Room 4"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Ms. Tusingwire Claudia"></Teacher><Subject name="BPO 3101 Business Policy"></Subject><Room name="Room 4"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Barigye Godfrey"></Teacher><Subject name="PMGT 3012 Project Planning and Management I"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Barigye Godfrey"></Teacher><Subject name="PMGT 3012 Project Planning and Management I"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Barigye Godfrey"></Teacher><Subject name="PMGT 3012 Project Planning and Management I"></Subject><Room name="LT 02"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="BEDS I Automatic Group Automatic Subgroup">
+   <Day name="Saturday">
+    <Hour name="0700-0755">
+     
+    </Hour>
+    <Hour name="0800-0855">
+     
+    </Hour>
+    <Hour name="0900-0955">
+     
+    </Hour>
+    <Hour name="1000-1055">
+     
+    </Hour>
+    <Hour name="1100-1155">
+     
+    </Hour>
+    <Hour name="1200-1255">
+     
+    </Hour>
+    <Hour name="1300-1355">
+     
+    </Hour>
+    <Hour name="1400-1455">
+     
+    </Hour>
+    <Hour name="1500-1555">
+     
+    </Hour>
+    <Hour name="1600-1655">
+     
+    </Hour>
+    <Hour name="1700-1755">
+     
+    </Hour>
+    <Hour name="1800-1855">
+     
+    </Hour>
+    <Hour name="1900-1955">
+     
+    </Hour>
+   </Day>
+   <Day name="Sunday">
+    <Hour name="0700-0755">
+     
+    </Hour>
+    <Hour name="0800-0855">
+     
+    </Hour>
+    <Hour name="0900-0955">
+     
+    </Hour>
+    <Hour name="1000-1055">
+     
+    </Hour>
+    <Hour name="1100-1155">
+     
+    </Hour>
+    <Hour name="1200-1255">
+     
+    </Hour>
+    <Hour name="1300-1355">
+     
+    </Hour>
+    <Hour name="1400-1455">
+     
+    </Hour>
+    <Hour name="1500-1555">
+     
+    </Hour>
+    <Hour name="1600-1655">
+     
+    </Hour>
+    <Hour name="1700-1755">
+     
+    </Hour>
+    <Hour name="1800-1855">
+     
+    </Hour>
+    <Hour name="1900-1955">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="BEDS II-II Automatic Subgroup">
+   <Day name="Saturday">
+    <Hour name="0700-0755">
+      <Teacher name="Fr. John Baptist Tumusiime"></Teacher><Subject name="DDP 2203 Development in Practice"></Subject><Room name="Room 4"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Fr. John Baptist Tumusiime"></Teacher><Subject name="DDP 2203 Development in Practice"></Subject><Room name="Room 4"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Fr. John Baptist Tumusiime"></Teacher><Subject name="DDP 2203 Development in Practice"></Subject><Room name="Room 4"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+     
+    </Hour>
+    <Hour name="1100-1155">
+     
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Ms. Tino Opio"></Teacher><Subject name="DIR 2205 International Relations"></Subject><Room name="LT 04"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Ms. Tino Opio"></Teacher><Subject name="DIR 2205 International Relations"></Subject><Room name="LT 04"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Ms. Tino Opio"></Teacher><Subject name="DIR 2205 International Relations"></Subject><Room name="LT 04"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+     
+    </Hour>
+    <Hour name="1600-1655">
+     
+    </Hour>
+    <Hour name="1700-1755">
+     
+    </Hour>
+    <Hour name="1800-1855">
+     
+    </Hour>
+    <Hour name="1900-1955">
+     
+    </Hour>
+   </Day>
+   <Day name="Sunday">
+    <Hour name="0700-0755">
+     
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Vucuri Frank"></Teacher><Subject name="PEF 2201 Ethics in Focus"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Vucuri Frank"></Teacher><Subject name="PEF 2201 Ethics in Focus"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Mr. Vucuri Frank"></Teacher><Subject name="PEF 2201 Ethics in Focus"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="CLS 2201Original and critical Language Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="CLS 2201Original and critical Language Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="CLS 2201Original and critical Language Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+     
+    </Hour>
+    <Hour name="1500-1555">
+     
+    </Hour>
+    <Hour name="1600-1655">
+     
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Tumwijukye Joseph"></Teacher><Subject name="DDD Decentralization and Development"></Subject><Room name="LT 05"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Tumwijukye Joseph"></Teacher><Subject name="DDD Decentralization and Development"></Subject><Room name="LT 05"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Tumwijukye Joseph"></Teacher><Subject name="DDD Decentralization and Development"></Subject><Room name="LT 05"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="BIT I-I Automatic Subgroup">
+   <Day name="Saturday">
+    <Hour name="0700-0755">
+      <Teacher name="Mr. Robert Mugonza"></Teacher><Subject name="CSC 1101 Introduction To Computer Science and IT"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Robert Mugonza"></Teacher><Subject name="CSC 1101 Introduction To Computer Science and IT"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Robert Mugonza"></Teacher><Subject name="CSC 1101 Introduction To Computer Science and IT"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Mr. Athanasius Rugasira"></Teacher><Subject name="CSC 1103 Discrete Mathematics"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Mr. Athanasius Rugasira"></Teacher><Subject name="CSC 1103 Discrete Mathematics"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Mr. Athanasius Rugasira"></Teacher><Subject name="CSC 1103 Discrete Mathematics"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Mr. Tibyanga Xavier"></Teacher><Subject name="ENG 1101 English Language Grammar"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. Tibyanga Xavier"></Teacher><Subject name="ENG 1101 English Language Grammar"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Mr. Tibyanga Xavier"></Teacher><Subject name="ENG 1101 English Language Grammar"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+     
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="bbbbbbbbbbb(IT-2)"></Teacher><Subject name="CSC 1104 Digital Electronics and Computer Architecture"></Subject><Room name="Room 7"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="bbbbbbbbbbb(IT-2)"></Teacher><Subject name="CSC 1104 Digital Electronics and Computer Architecture"></Subject><Room name="Room 7"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="bbbbbbbbbbb(IT-2)"></Teacher><Subject name="CSC 1104 Digital Electronics and Computer Architecture"></Subject><Room name="Room 7"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sunday">
+    <Hour name="0700-0755">
+     
+    </Hour>
+    <Hour name="0800-0855">
+     
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Godwin Robert"></Teacher><Subject name="STA 1101 Introduction to Statistics"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Mr. Godwin Robert"></Teacher><Subject name="STA 1101 Introduction to Statistics"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Mr. Godwin Robert"></Teacher><Subject name="STA 1101 Introduction to Statistics"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Mr. Kenneth Baguma"></Teacher><Subject name="CSC 1102 Internet Technologies and Web Page Authoring"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Mr. Kenneth Baguma"></Teacher><Subject name="CSC 1102 Internet Technologies and Web Page Authoring"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. Kenneth Baguma"></Teacher><Subject name="CSC 1102 Internet Technologies and Web Page Authoring"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+     
+    </Hour>
+    <Hour name="1600-1655">
+     
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Godwin Robert"></Teacher><Subject name="MTC 1102 Elements of Mathematics"></Subject><Room name="Room 4"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Godwin Robert"></Teacher><Subject name="MTC 1102 Elements of Mathematics"></Subject><Room name="Room 4"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Godwin Robert"></Teacher><Subject name="MTC 1102 Elements of Mathematics"></Subject><Room name="Room 4"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="BIT I-II Automatic Subgroup">
+   <Day name="Saturday">
+    <Hour name="0700-0755">
+      <Teacher name="Dr. Nabaasa Evarist (PhD)"></Teacher><Subject name="CSC 1204 CISCO I Introduction to Networks"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Dr. Nabaasa Evarist (PhD)"></Teacher><Subject name="CSC 1204 CISCO I Introduction to Networks"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Dr. Nabaasa Evarist (PhD)"></Teacher><Subject name="CSC 1204 CISCO I Introduction to Networks"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Dr. Sr. Tumusiime Eva (PhD)"></Teacher><Subject name="COC 1201 Research Methodology I"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Dr. Sr. Tumusiime Eva (PhD)"></Teacher><Subject name="COC 1201 Research Methodology I"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Dr. Sr. Tumusiime Eva (PhD)"></Teacher><Subject name="COC 1201 Research Methodology I"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+     
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Dr. Fr. Mbyemeire Patrick (PhD)"></Teacher><Subject name="PIE 1202 Introduction to Ethics"></Subject><Room name="LT 05"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Dr. Fr. Mbyemeire Patrick (PhD)"></Teacher><Subject name="PIE 1202 Introduction to Ethics"></Subject><Room name="LT 05"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Dr. Fr. Mbyemeire Patrick (PhD)"></Teacher><Subject name="PIE 1202 Introduction to Ethics"></Subject><Room name="LT 05"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Judas Tadeo"></Teacher><Subject name="CSC 1203 Development Group Project I"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Judas Tadeo"></Teacher><Subject name="CSC 1203 Development Group Project I"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Judas Tadeo"></Teacher><Subject name="CSC 1203 Development Group Project I"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sunday">
+    <Hour name="0700-0755">
+     
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Vucuri Frank"></Teacher><Subject name="PEF 2201 Ethics in Focus"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Vucuri Frank"></Teacher><Subject name="PEF 2201 Ethics in Focus"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Mr. Vucuri Frank"></Teacher><Subject name="PEF 2201 Ethics in Focus"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="aaaaaaaaaaa(IT-1)"></Teacher><Subject name="CSC 1202 Operating Systems"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="aaaaaaaaaaa(IT-1)"></Teacher><Subject name="CSC 1202 Operating Systems"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="aaaaaaaaaaa(IT-1)"></Teacher><Subject name="CSC 1202 Operating Systems"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="LIT 1201 Literature and Composition"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="LIT 1201 Literature and Composition"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="LIT 1201 Literature and Composition"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Kawuma Simon"></Teacher><Subject name="CSC 1201 Programming Methodology I C++"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Kawuma Simon"></Teacher><Subject name="CSC 1201 Programming Methodology I C++"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Kawuma Simon"></Teacher><Subject name="CSC 1201 Programming Methodology I C++"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="BIT II-I Automatic Subgroup">
+   <Day name="Saturday">
+    <Hour name="0700-0755">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="BCS 1206 Business Communication Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="BCS 1206 Business Communication Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="BCS 1206 Business Communication Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Ms. Jane Katusiime"></Teacher><Subject name="CSC 2103 Programming Algorithms and Data Structures"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Ms. Jane Katusiime"></Teacher><Subject name="CSC 2103 Programming Algorithms and Data Structures"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Ms. Jane Katusiime"></Teacher><Subject name="CSC 2103 Programming Algorithms and Data Structures"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Dr. Conrad Mike Mubaraka (PhD)"></Teacher><Subject name="CSC 2101 Object-Oriented programming II with Java I"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Dr. Conrad Mike Mubaraka (PhD)"></Teacher><Subject name="CSC 2101 Object-Oriented programming II with Java I"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Dr. Conrad Mike Mubaraka (PhD)"></Teacher><Subject name="CSC 2101 Object-Oriented programming II with Java I"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+     
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Ms. Kanyesigye Stella Teddy"></Teacher><Subject name="COC 2101 Research Methodology II"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Ms. Kanyesigye Stella Teddy"></Teacher><Subject name="COC 2101 Research Methodology II"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Ms. Kanyesigye Stella Teddy"></Teacher><Subject name="COC 2101 Research Methodology II"></Subject><Room name="LT 02"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sunday">
+    <Hour name="0700-0755">
+     
+    </Hour>
+    <Hour name="0800-0855">
+     
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Fred Kaggwa"></Teacher><Subject name="CSC 2105 Systems Administration, Computer Maintenance"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Mr. Fred Kaggwa"></Teacher><Subject name="CSC 2105 Systems Administration, Computer Maintenance"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Mr. Fred Kaggwa"></Teacher><Subject name="CSC 2105 Systems Administration, Computer Maintenance"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+     
+    </Hour>
+    <Hour name="1300-1355">
+     
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. Lasto Mubiru"></Teacher><Subject name="CSC 2106 CISCO 2 Router and Routing Basics"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Mr. Lasto Mubiru"></Teacher><Subject name="CSC 2106 CISCO 2 Router and Routing Basics"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Mr. Lasto Mubiru"></Teacher><Subject name="CSC 2106 CISCO 2 Router and Routing Basics"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+     
+    </Hour>
+    <Hour name="1800-1855">
+     
+    </Hour>
+    <Hour name="1900-1955">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="BIT II-II Automatic Subgroup">
+   <Day name="Saturday">
+    <Hour name="0700-0755">
+      <Teacher name="Ms. Jane Katusiime"></Teacher><Subject name="CSC 2202 Systems Analysis and Design"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Ms. Jane Katusiime"></Teacher><Subject name="CSC 2202 Systems Analysis and Design"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Ms. Jane Katusiime"></Teacher><Subject name="CSC 2202 Systems Analysis and Design"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+     
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Mr. Kawuma Simon"></Teacher><Subject name="CSC 2207 Development Group Project II"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Mr. Kawuma Simon"></Teacher><Subject name="CSC 2207 Development Group Project II"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Mr. Kawuma Simon"></Teacher><Subject name="CSC 2207 Development Group Project II"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. Judas Tadeo"></Teacher><Subject name="CSC 2204 Website Design, Programming and Administration"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Mr. Judas Tadeo"></Teacher><Subject name="CSC 2204 Website Design, Programming and Administration"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Mr. Judas Tadeo"></Teacher><Subject name="CSC 2204 Website Design, Programming and Administration"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Robert Mugonza"></Teacher><Subject name="CSC 2205 Communication Networks and Systems Administration"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Robert Mugonza"></Teacher><Subject name="CSC 2205 Communication Networks and Systems Administration"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Robert Mugonza"></Teacher><Subject name="CSC 2205 Communication Networks and Systems Administration"></Subject><Room name="Lab 01"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sunday">
+    <Hour name="0700-0755">
+      <Teacher name="Mr. Lasto Mubiru"></Teacher><Subject name="CSC 2206 CISCO 3 Switching Basics Intermediate Routing"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Lasto Mubiru"></Teacher><Subject name="CSC 2206 CISCO 3 Switching Basics Intermediate Routing"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Lasto Mubiru"></Teacher><Subject name="CSC 2206 CISCO 3 Switching Basics Intermediate Routing"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+     
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="CLS 2201Original and critical Language Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="CLS 2201Original and critical Language Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="CLS 2201Original and critical Language Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. David Bamutura"></Teacher><Subject name="CSC 2201 Object Oriented Programming II with Java II"></Subject><Room name="Lab 02"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Mr. David Bamutura"></Teacher><Subject name="CSC 2201 Object Oriented Programming II with Java II"></Subject><Room name="Lab 02"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Mr. David Bamutura"></Teacher><Subject name="CSC 2201 Object Oriented Programming II with Java II"></Subject><Room name="Lab 02"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Fred Kaggwa"></Teacher><Subject name="CSC 2208 Computer Maintenance and Troubleshooting"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Fred Kaggwa"></Teacher><Subject name="CSC 2208 Computer Maintenance and Troubleshooting"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Fred Kaggwa"></Teacher><Subject name="CSC 2208 Computer Maintenance and Troubleshooting"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="BIT III-I Automatic Subgroup">
+   <Day name="Saturday">
+    <Hour name="0700-0755">
+      <Teacher name="Dr. Conrad Mike Mubaraka (PhD)"></Teacher><Subject name="CSC 3201 Web-based Database Development"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Dr. Conrad Mike Mubaraka (PhD)"></Teacher><Subject name="CSC 3201 Web-based Database Development"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Dr. Conrad Mike Mubaraka (PhD)"></Teacher><Subject name="CSC 3201 Web-based Database Development"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Dr. Conrad Mike Mubaraka (PhD)"></Teacher><Subject name="CSC 3101 Programming Methodology III with Visual Basic"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Dr. Conrad Mike Mubaraka (PhD)"></Teacher><Subject name="CSC 3101 Programming Methodology III with Visual Basic"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Dr. Conrad Mike Mubaraka (PhD)"></Teacher><Subject name="CSC 3101 Programming Methodology III with Visual Basic"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Mr. Lasto Mubiru"></Teacher><Subject name="CSC 3103 CISCO 4 WAN Technologies"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. Lasto Mubiru"></Teacher><Subject name="CSC 3103 CISCO 4 WAN Technologies"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Mr. Lasto Mubiru"></Teacher><Subject name="CSC 3103 CISCO 4 WAN Technologies"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Mr. Tibyanga Xavier"></Teacher><Subject name="BEN 3101 Business English"></Subject><Room name="Lab 02"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Tibyanga Xavier"></Teacher><Subject name="BEN 3101 Business English"></Subject><Room name="Lab 02"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Tibyanga Xavier"></Teacher><Subject name="BEN 3101 Business English"></Subject><Room name="Lab 02"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+     
+    </Hour>
+   </Day>
+   <Day name="Sunday">
+    <Hour name="0700-0755">
+      <Teacher name="Mr. Kelly Tumwiine"></Teacher><Subject name="CSC 3102 Electronic Commerce"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Kelly Tumwiine"></Teacher><Subject name="CSC 3102 Electronic Commerce"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Kelly Tumwiine"></Teacher><Subject name="CSC 3102 Electronic Commerce"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Ms. Jane Katusiime"></Teacher><Subject name="CSC 2202 Systems Analysis and Design"></Subject><Room name="Room 7"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Ms. Jane Katusiime"></Teacher><Subject name="CSC 2202 Systems Analysis and Design"></Subject><Room name="Room 7"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Ms. Jane Katusiime"></Teacher><Subject name="CSC 2202 Systems Analysis and Design"></Subject><Room name="Room 7"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Mr. Fred Kaggwa"></Teacher><Subject name="CSC 3104 Decision Support and Collaborative Systems"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. Fred Kaggwa"></Teacher><Subject name="CSC 3104 Decision Support and Collaborative Systems"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Mr. Fred Kaggwa"></Teacher><Subject name="CSC 3104 Decision Support and Collaborative Systems"></Subject><Room name="CompLab 01"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+     
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Fred Kaggwa"></Teacher><Subject name="CSC 2208 Computer Maintenance and Troubleshooting"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Fred Kaggwa"></Teacher><Subject name="CSC 2208 Computer Maintenance and Troubleshooting"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Fred Kaggwa"></Teacher><Subject name="CSC 2208 Computer Maintenance and Troubleshooting"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="DBAM I-II Automatic Subgroup">
+   <Day name="Saturday">
+    <Hour name="0700-0755">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="BCS 1206 Business Communication Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="BCS 1206 Business Communication Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Karara Festo"></Teacher><Subject name="BCS 1206 Business Communication Skills"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+     
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Ms. Ayebare Peninah"></Teacher><Subject name="ECO 1202 Managerial Economics II"></Subject><Room name="Boardroom"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Ms. Ayebare Peninah"></Teacher><Subject name="ECO 1202 Managerial Economics II"></Subject><Room name="Boardroom"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Ms. Ayebare Peninah"></Teacher><Subject name="ECO 1202 Managerial Economics II"></Subject><Room name="Boardroom"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+     
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Ms. Patricia Kyomugisha"></Teacher><Subject name="WP 1204 Word Processing-Using Ms Word"></Subject><Room name="LT 04"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Ms. Patricia Kyomugisha"></Teacher><Subject name="WP 1204 Word Processing-Using Ms Word"></Subject><Room name="LT 04"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Ms. Patricia Kyomugisha"></Teacher><Subject name="WP 1204 Word Processing-Using Ms Word"></Subject><Room name="LT 04"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+     
+    </Hour>
+    <Hour name="1900-1955">
+     
+    </Hour>
+   </Day>
+   <Day name="Sunday">
+    <Hour name="0700-0755">
+      <Teacher name="Mr. Tumusiime Laws Mwije"></Teacher><Subject name="COL 1207 Company Law"></Subject><Room name="Room 4"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Tumusiime Laws Mwije"></Teacher><Subject name="COL 1207 Company Law"></Subject><Room name="Room 4"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Tumusiime Laws Mwije"></Teacher><Subject name="COL 1207 Company Law"></Subject><Room name="Room 4"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+     
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Mr. Atwine Alex"></Teacher><Subject name="COL 1207 Company Law"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Mr. Atwine Alex"></Teacher><Subject name="COL 1207 Company Law"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="Mr. Atwine Alex"></Teacher><Subject name="COL 1207 Company Law"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. Vincent Mutahunga"></Teacher><Subject name="MGT 1101 Principles of Management"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Mr. Vincent Mutahunga"></Teacher><Subject name="MGT 1101 Principles of Management"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Mr. Vincent Mutahunga"></Teacher><Subject name="MGT 1101 Principles of Management"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Agume Anthony"></Teacher><Subject name="ACC 2103 Intermediate Accounting I"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Agume Anthony"></Teacher><Subject name="ACC 2103 Intermediate Accounting I"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Agume Anthony"></Teacher><Subject name="ACC 2103 Intermediate Accounting I"></Subject><Room name="LT 01"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="DBAM II-I Automatic Subgroup">
+   <Day name="Saturday">
+    <Hour name="0700-0755">
+      <Teacher name="Mr. Agaba Banyenzaki James"></Teacher><Subject name="OB 1202 Origanizational Behaviour"></Subject><Room name="LT 04"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Agaba Banyenzaki James"></Teacher><Subject name="OB 1202 Origanizational Behaviour"></Subject><Room name="LT 04"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Agaba Banyenzaki James"></Teacher><Subject name="OB 1202 Origanizational Behaviour"></Subject><Room name="LT 04"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="bbbbbbbb-(BAM-2)"></Teacher><Subject name="COR 2201 Corporate Finance I"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="bbbbbbbb-(BAM-2)"></Teacher><Subject name="COR 2201 Corporate Finance I"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="bbbbbbbb-(BAM-2)"></Teacher><Subject name="COR 2201 Corporate Finance I"></Subject><Room name="LT 01"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+     
+    </Hour>
+    <Hour name="1400-1455">
+     
+    </Hour>
+    <Hour name="1500-1555">
+     
+    </Hour>
+    <Hour name="1600-1655">
+     
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Tukamwesiga Jotham"></Teacher><Subject name="ACC 2205 Cost Accounting"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Tukamwesiga Jotham"></Teacher><Subject name="ACC 2205 Cost Accounting"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Tukamwesiga Jotham"></Teacher><Subject name="ACC 2205 Cost Accounting"></Subject><Room name="Room 8"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sunday">
+    <Hour name="0700-0755">
+     
+    </Hour>
+    <Hour name="0800-0855">
+     
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Godwin Robert"></Teacher><Subject name="STA 1101 Introduction to Statistics"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Mr. Godwin Robert"></Teacher><Subject name="STA 1101 Introduction to Statistics"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Mr. Godwin Robert"></Teacher><Subject name="STA 1101 Introduction to Statistics"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+     
+    </Hour>
+    <Hour name="1300-1355">
+     
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. Mpagane Valerian"></Teacher><Subject name="CF 2101 Corporate Finance I"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Mr. Mpagane Valerian"></Teacher><Subject name="CF 2101 Corporate Finance I"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Mr. Mpagane Valerian"></Teacher><Subject name="CF 2101 Corporate Finance I"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Ms. Calorine katushabe"></Teacher><Subject name="SSM 2201 Spreadsheets-Ms Excel"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Ms. Calorine katushabe"></Teacher><Subject name="SSM 2201 Spreadsheets-Ms Excel"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Ms. Calorine katushabe"></Teacher><Subject name="SSM 2201 Spreadsheets-Ms Excel"></Subject><Room name="Room 8"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="DBAM II-II Automatic Subgroup">
+   <Day name="Saturday">
+    <Hour name="0700-0755">
+      <Teacher name="Mr. Mpagane Valerian"></Teacher><Subject name="DIB 2201 International Business (Case Study)"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Mpagane Valerian"></Teacher><Subject name="DIB 2201 International Business (Case Study)"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Mpagane Valerian"></Teacher><Subject name="DIB 2201 International Business (Case Study)"></Subject><Room name="Room 8"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Mr. Mpagane Valerian"></Teacher><Subject name="ACC 3106 Management Accounting"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Mr. Mpagane Valerian"></Teacher><Subject name="ACC 3106 Management Accounting"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Mr. Mpagane Valerian"></Teacher><Subject name="ACC 3106 Management Accounting"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+     
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Ms. Tusingwire Claudia"></Teacher><Subject name="SHRM 2201 Strategic Human Resource Management"></Subject><Room name="Room 7"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Ms. Tusingwire Claudia"></Teacher><Subject name="SHRM 2201 Strategic Human Resource Management"></Subject><Room name="Room 7"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Ms. Tusingwire Claudia"></Teacher><Subject name="SHRM 2201 Strategic Human Resource Management"></Subject><Room name="Room 7"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+     
+    </Hour>
+    <Hour name="1800-1855">
+     
+    </Hour>
+    <Hour name="1900-1955">
+     
+    </Hour>
+   </Day>
+   <Day name="Sunday">
+    <Hour name="0700-0755">
+     
+    </Hour>
+    <Hour name="0800-0855">
+     
+    </Hour>
+    <Hour name="0900-0955">
+     
+    </Hour>
+    <Hour name="1000-1055">
+     
+    </Hour>
+    <Hour name="1100-1155">
+     
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="aaaaaaaaa-(BAM-1)"></Teacher><Subject name="DIB 2201 International Business (Case Study)"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+      <Teacher name="aaaaaaaaa-(BAM-1)"></Teacher><Subject name="DIB 2201 International Business (Case Study)"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="aaaaaaaaa-(BAM-1)"></Teacher><Subject name="DIB 2201 International Business (Case Study)"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+     
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Ms. Patricia Kyomugisha"></Teacher><Subject name="DDM 2201 Data Management-Ms Access"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Ms. Patricia Kyomugisha"></Teacher><Subject name="DDM 2201 Data Management-Ms Access"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Ms. Patricia Kyomugisha"></Teacher><Subject name="DDM 2201 Data Management-Ms Access"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="DEDS I-II Automatic Subgroup">
+   <Day name="Saturday">
+    <Hour name="0700-0755">
+      <Teacher name="Mr. Ahimbisibwe Frank"></Teacher><Subject name="PFA 2101 Ethics and Africa Develoment"></Subject><Room name="Room 7"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Ahimbisibwe Frank"></Teacher><Subject name="PFA 2101 Ethics and Africa Develoment"></Subject><Room name="Room 7"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Ahimbisibwe Frank"></Teacher><Subject name="PFA 2101 Ethics and Africa Develoment"></Subject><Room name="Room 7"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Dr. Sr. Tumusiime Eva (PhD)"></Teacher><Subject name="COC 1201 Research Methodology I"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Dr. Sr. Tumusiime Eva (PhD)"></Teacher><Subject name="COC 1201 Research Methodology I"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Dr. Sr. Tumusiime Eva (PhD)"></Teacher><Subject name="COC 1201 Research Methodology I"></Subject><Room name="Main Hall"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+     
+    </Hour>
+    <Hour name="1400-1455">
+     
+    </Hour>
+    <Hour name="1500-1555">
+     
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Ms. Nabbosa Agnes"></Teacher><Subject name="DEDS 1203 Gender Issues"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Ms. Nabbosa Agnes"></Teacher><Subject name="DEDS 1203 Gender Issues"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Ms. Nabbosa Agnes"></Teacher><Subject name="DEDS 1203 Gender Issues"></Subject><Room name="Room 3"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+     
+    </Hour>
+   </Day>
+   <Day name="Sunday">
+    <Hour name="0700-0755">
+     
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Mr. Tibyanga Xavier"></Teacher><Subject name="DEDS 1205 Language and Research"></Subject><Room name="LT 05"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Mr. Tibyanga Xavier"></Teacher><Subject name="DEDS 1205 Language and Research"></Subject><Room name="LT 05"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Mr. Tibyanga Xavier"></Teacher><Subject name="DEDS 1205 Language and Research"></Subject><Room name="LT 05"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+     
+    </Hour>
+    <Hour name="1200-1255">
+     
+    </Hour>
+    <Hour name="1300-1355">
+     
+    </Hour>
+    <Hour name="1400-1455">
+      <Teacher name="Mr. Tumwijukye Joseph"></Teacher><Subject name="DRS 1205 Rural Sociology"></Subject><Room name="LT 04"></Room>
+    </Hour>
+    <Hour name="1500-1555">
+      <Teacher name="Mr. Tumwijukye Joseph"></Teacher><Subject name="DRS 1205 Rural Sociology"></Subject><Room name="LT 04"></Room>
+    </Hour>
+    <Hour name="1600-1655">
+      <Teacher name="Mr. Tumwijukye Joseph"></Teacher><Subject name="DRS 1205 Rural Sociology"></Subject><Room name="LT 04"></Room>
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Barigye Godfrey"></Teacher><Subject name="PMGT 3012 Project Planning and Management I"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Barigye Godfrey"></Teacher><Subject name="PMGT 3012 Project Planning and Management I"></Subject><Room name="LT 02"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Barigye Godfrey"></Teacher><Subject name="PMGT 3012 Project Planning and Management I"></Subject><Room name="LT 02"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="DIT I-II Automatic Subgroup">
+   <Day name="Saturday">
+    <Hour name="0700-0755">
+      <Teacher name="Dr. Nabaasa Evarist (PhD)"></Teacher><Subject name="CSC 1204 CISCO I Introduction to Networks"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="0800-0855">
+      <Teacher name="Dr. Nabaasa Evarist (PhD)"></Teacher><Subject name="CSC 1204 CISCO I Introduction to Networks"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="0900-0955">
+      <Teacher name="Dr. Nabaasa Evarist (PhD)"></Teacher><Subject name="CSC 1204 CISCO I Introduction to Networks"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="1000-1055">
+      <Teacher name="Mr. Kenneth Baguma"></Teacher><Subject name="DIPS 1201 Introduction to Information Technology II"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="1100-1155">
+      <Teacher name="Mr. Kenneth Baguma"></Teacher><Subject name="DIPS 1201 Introduction to Information Technology II"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="1200-1255">
+      <Teacher name="Mr. Kenneth Baguma"></Teacher><Subject name="DIPS 1201 Introduction to Information Technology II"></Subject><Room name="CompLab 03"></Room>
+    </Hour>
+    <Hour name="1300-1355">
+     
+    </Hour>
+    <Hour name="1400-1455">
+     
+    </Hour>
+    <Hour name="1500-1555">
+     
+    </Hour>
+    <Hour name="1600-1655">
+     
+    </Hour>
+    <Hour name="1700-1755">
+     
+    </Hour>
+    <Hour name="1800-1855">
+     
+    </Hour>
+    <Hour name="1900-1955">
+     
+    </Hour>
+   </Day>
+   <Day name="Sunday">
+    <Hour name="0700-0755">
+     
+    </Hour>
+    <Hour name="0800-0855">
+     
+    </Hour>
+    <Hour name="0900-0955">
+     
+    </Hour>
+    <Hour name="1000-1055">
+     
+    </Hour>
+    <Hour name="1100-1155">
+     
+    </Hour>
+    <Hour name="1200-1255">
+     
+    </Hour>
+    <Hour name="1300-1355">
+     
+    </Hour>
+    <Hour name="1400-1455">
+     
+    </Hour>
+    <Hour name="1500-1555">
+     
+    </Hour>
+    <Hour name="1600-1655">
+     
+    </Hour>
+    <Hour name="1700-1755">
+      <Teacher name="Mr. Fred Kaggwa"></Teacher><Subject name="CSC 2208 Computer Maintenance and Troubleshooting"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+    <Hour name="1800-1855">
+      <Teacher name="Mr. Fred Kaggwa"></Teacher><Subject name="CSC 2208 Computer Maintenance and Troubleshooting"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+    <Hour name="1900-1955">
+      <Teacher name="Mr. Fred Kaggwa"></Teacher><Subject name="CSC 2208 Computer Maintenance and Troubleshooting"></Subject><Room name="CompLab 02"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+</Students_Timetable>

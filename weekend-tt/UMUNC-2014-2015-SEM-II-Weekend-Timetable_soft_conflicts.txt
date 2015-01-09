@@ -1,0 +1,19 @@
+﻿Soft conflicts of UMUNC-2014-2015-SEM-II-Weekend-Timetable.fet
+Generated with FET 5.23.3 on 1/9/15 5:56 PM
+
+Total soft conflicts: 6
+
+Soft conflicts list (in decreasing order):
+
+Space constraint subject preferred rooms broken for activity with id 102 (T:Mr. Tumusiime Laws Mwije, S:COL 1207 Company Law, St:DBAM I-II). This increases the conflicts total by 0.75
+Space constraint subject preferred rooms broken for activity with id 4 (T:Mr. David Bamutura, S:CSC 2201 Object Oriented Programming II with Java II, St:BIT II-II). This increases the conflicts total by 0.75
+Space constraint subject preferred room broken for activity with id 108 (T:Dr. Sr. Tumusiime Eva (PhD), S:COC 1201 Research Methodology I, St:BIT I-II,BAM II-I,DEDS I-II). This increases the conflicts total by 0.75
+Space constraint subject preferred room broken for activity with id 42 (T:Mr. Karara Festo, S:CLS 2201Original and critical Language Skills, St:BAM II-II,BIT II-II,BEDS II-II). This increases the conflicts total by 0.75
+Space constraint subject preferred room broken for activity with id 107 (T:Ms. Ayebare Peninah, S:ECO 1202 Managerial Economics II, St:BAM I-II,DBAM I-II). This increases the conflicts total by 0.75
+Space constraint subject preferred room broken for activity with id 43 (T:Mr. Tibyanga Xavier, S:ENG 1101 English Language Grammar, St:BAM I-I,BIT I-I). This increases the conflicts total by 0.75
+Time constraint activity preferred starting time broken for activity with id=51 (T:Mr. Agume Anthony, S:ACC 3207 Advanced and Public Sector Acounting, St:BAM III-I), increases conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 61 (T:Ms. Tusingwire Claudia, S:BPO 3101 Business Policy, St:BAM III-I). This increases the conflicts total by 0.5
+Time constraint activity preferred starting time broken for activity with id=53 (T:Mr. Vincent Mutahunga, S:ACC 1202 Fundamental Accounting II, St:BAM I-II), increases conflicts total by 0.25
+Time constraint activity preferred starting time broken for activity with id=54 (T:Mr. Vincent Mutahunga, S:MGT 1101 Principles of Management, St:BAM I-I,DBAM I-II), increases conflicts total by 0.25
+
+End of file.

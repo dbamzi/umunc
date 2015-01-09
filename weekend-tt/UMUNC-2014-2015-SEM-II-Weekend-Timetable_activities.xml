@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Activities_Timetable>
+<Activity>
+	<Id>1</Id>
+	<Day>Saturday</Day>
+	<Hour>0700-0755</Hour>
+	<Room>CompLab 03</Room>
+</Activity>
+<Activity>
+	<Id>2</Id>
+	<Day>Sunday</Day>
+	<Hour>1700-1755</Hour>
+	<Room>CompLab 01</Room>
+</Activity>
+<Activity>
+	<Id>3</Id>
+	<Day>Saturday</Day>
+	<Hour>1100-1155</Hour>
+	<Room>CompLab 02</Room>
+</Activity>
+<Activity>
+	<Id>4</Id>
+	<Day>Sunday</Day>
+	<Hour>1400-1455</Hour>
+	<Room>Lab 02</Room>
+</Activity>
+<Activity>
+	<Id>6</Id>
+	<Day>Saturday</Day>
+	<Hour>1000-1055</Hour>
+	<Room>Lab 01</Room>
+</Activity>
+<Activity>
+	<Id>7</Id>
+	<Day>Saturday</Day>
+	<Hour>0700-0755</Hour>
+	<Room>Lab 01</Room>
+</Activity>
+<Activity>
+	<Id>8</Id>
+	<Day>Sunday</Day>
+	<Hour>1000-1055</Hour>
+	<Room>Room 7</Room>
+</Activity>
+<Activity>
+	<Id>9</Id>
+	<Day>Sunday</Day>
+	<Hour>1400-1455</Hour>
+	<Room>CompLab 03</Room>
+</Activity>
+<Activity>
+	<Id>10</Id>
+	<Day>Sunday</Day>
+	<Hour>0700-0755</Hour>
+	<Room>CompLab 03</Room>
+</Activity>
+<Activity>
+	<Id>11</Id>
+	<Day>Saturday</Day>
+	<Hour>1300-1355</Hour>
+	<Room>CompLab 03</Room>
+</Activity>
+<Activity>
+	<Id>12</Id>
+	<Day>Saturday</Day>
+	<Hour>0700-0755</Hour>
+	<Room>CompLab 01</Room>
+</Activity>
+<Activity>
+	<Id>13</Id>
+	<Day>Saturday</Day>
+	<Hour>1700-1755</Hour>
+	<Room>Lab 01</Room>
+</Activity>
+<Activity>
+	<Id>14</Id>
+	<Day>Saturday</Day>
+	<Hour>1700-1755</Hour>
+	<Room>CompLab 02</Room>
+</Activity>
+<Activity>
+	<Id>15</Id>
+	<Day>Saturday</Day>
+	<Hour>1400-1455</Hour>
+	<Room>CompLab 01</Room>
+</Activity>
+<Activity>
+	<Id>16</Id>
+	<Day>Sunday</Day>
+	<Hour>1700-1755</Hour>
+	<Room>Lab 01</Room>
+</Activity>
+<Activity>
+	<Id>17</Id>
+	<Day>Sunday</Day>
+	<Hour>0700-0755</Hour>
+	<Room>CompLab 01</Room>
+</Activity>
+<Activity>
+	<Id>18</Id>
+	<Day>Sunday</Day>
+	<Hour>1000-1055</Hour>
+	<Room>CompLab 01</Room>
+</Activity>
+<Activity>
+	<Id>19</Id>
+	<Day>Sunday</Day>
+	<Hour>1600-1655</Hour>
+	<Room>Room 3</Room>
+</Activity>
+<Activity>
+	<Id>20</Id>
+	<Day>Saturday</Day>
+	<Hour>1500-1555</Hour>
+	<Room>LT 04</Room>
+</Activity>
+<Activity>
+	<Id>21</Id>
+	<Day>Sunday</Day>
+	<Hour>1700-1755</Hour>
+	<Room>Room 8</Room>
+</Activity>
+<Activity>
+	<Id>22</Id>
+	<Day>Sunday</Day>
+	<Hour>1200-1255</Hour>
+	<Room>Lab 01</Room>
+</Activity>
+<Activity>
+	<Id>23</Id>
+	<Day>Saturday</Day>
+	<Hour>1000-1055</Hour>
+	<Room>CompLab 03</Room>
+</Activity>
+<Activity>
+	<Id>24</Id>
+	<Day>Sunday</Day>
+	<Hour>0900-0955</Hour>
+	<Room>CompLab 02</Room>
+</Activity>
+<Activity>
+	<Id>25</Id>
+	<Day>Sunday</Day>
+	<Hour>1300-1355</Hour>
+	<Room>CompLab 01</Room>
+</Activity>
+<Activity>
+	<Id>26</Id>
+	<Day>Sunday</Day>
+	<Hour>1700-1755</Hour>
+	<Room>CompLab 02</Room>
+</Activity>
+<Activity>
+	<Id>27</Id>
+	<Day>Saturday</Day>
+	<Hour>1300-1355</Hour>
+	<Room>Lab 01</Room>
+</Activity>
+<Activity>
+	<Id>28</Id>
+	<Day>Saturday</Day>
+	<Hour>1000-1055</Hour>
+	<Room>CompLab 01</Room>
+</Activity>
+<Activity>
+	<Id>29</Id>
+	<Day>Saturday</Day>
+	<Hour>0700-0755</Hour>
+	<Room>CompLab 02</Room>
+</Activity>
+<Activity>
+	<Id>31</Id>
+	<Day>Sunday</Day>
+	<Hour>1100-1155</Hour>
+	<Room>CompLab 03</Room>
+</Activity>
+<Activity>
+	<Id>33</Id>
+	<Day>Saturday</Day>
+	<Hour>1700-1755</Hour>
+	<Room>Room 7</Room>
+</Activity>
+<Activity>
+	<Id>34</Id>
+	<Day>Sunday</Day>
+	<Hour>1000-1055</Hour>
+	<Room>LT 02</Room>
+</Activity>
+<Activity>
+	<Id>35</Id>
+	<Day>Saturday</Day>
+	<Hour>1000-1055</Hour>
+	<Room>Room 3</Room>
+</Activity>
+<Activity>
+	<Id>37</Id>
+	<Day>Sunday</Day>
+	<Hour>0900-0955</Hour>
+	<Room>Room 8</Room>
+</Activity>
+<Activity>
+	<Id>38</Id>
+	<Day>Sunday</Day>
+	<Hour>1700-1755</Hour>
+	<Room>Room 4</Room>
+</Activity>
+<Activity>
+	<Id>39</Id>
+	<Day>Saturday</Day>
+	<Hour>1700-1755</Hour>
+	<Room>Room 4</Room>
+</Activity>
+<Activity>
+	<Id>40</Id>
+	<Day>Sunday</Day>
+	<Hour>1400-1455</Hour>
+	<Room>LT 02</Room>
+</Activity>
+<Activity>
+	<Id>41</Id>
+	<Day>Saturday</Day>
+	<Hour>0700-0755</Hour>
+	<Room>Main Hall</Room>
+</Activity>
+<Activity>
+	<Id>42</Id>
+	<Day>Sunday</Day>
+	<Hour>1100-1155</Hour>
+	<Room>Main Hall</Room>
+</Activity>
+<Activity>
+	<Id>43</Id>
+	<Day>Saturday</Day>
+	<Hour>1300-1355</Hour>
+	<Room>Main Hall</Room>
+</Activity>
+<Activity>
+	<Id>45</Id>
+	<Day>Sunday</Day>
+	<Hour>0800-0855</Hour>
+	<Room>LT 05</Room>
+</Activity>
+<Activity>
+	<Id>47</Id>
+	<Day>Sunday</Day>
+	<Hour>1100-1155</Hour>
+	<Room>LT 01</Room>
+</Activity>
+<Activity>
+	<Id>48</Id>
+	<Day>Sunday</Day>
+	<Hour>0700-0755</Hour>
+	<Room>LT 01</Room>
+</Activity>
+<Activity>
+	<Id>51</Id>
+	<Day>Sunday</Day>
+	<Hour>0700-0755</Hour>
+	<Room>LT 02</Room>
+</Activity>
+<Activity>
+	<Id>52</Id>
+	<Day>Sunday</Day>
+	<Hour>1700-1755</Hour>
+	<Room>LT 01</Room>
+</Activity>
+<Activity>
+	<Id>53</Id>
+	<Day>Sunday</Day>
+	<Hour>1700-1755</Hour>
+	<Room>Boardroom</Room>
+</Activity>
+<Activity>
+	<Id>54</Id>
+	<Day>Sunday</Day>
+	<Hour>1400-1455</Hour>
+	<Room>LT 01</Room>
+</Activity>
+<Activity>
+	<Id>55</Id>
+	<Day>Saturday</Day>
+	<Hour>1700-1755</Hour>
+	<Room>Room 8</Room>
+</Activity>
+<Activity>
+	<Id>56</Id>
+	<Day>Saturday</Day>
+	<Hour>1300-1355</Hour>
+	<Room>LT 01</Room>
+</Activity>
+<Activity>
+	<Id>57</Id>
+	<Day>Saturday</Day>
+	<Hour>1000-1055</Hour>
+	<Room>LT 05</Room>
+</Activity>
+<Activity>
+	<Id>59</Id>
+	<Day>Sunday</Day>
+	<Hour>1400-1455</Hour>
+	<Room>Boardroom</Room>
+</Activity>
+<Activity>
+	<Id>60</Id>
+	<Day>Saturday</Day>
+	<Hour>0700-0755</Hour>
+	<Room>LT 02</Room>
+</Activity>
+<Activity>
+	<Id>61</Id>
+	<Day>Sunday</Day>
+	<Hour>1400-1455</Hour>
+	<Room>Room 4</Room>
+</Activity>
+<Activity>
+	<Id>63</Id>
+	<Day>Saturday</Day>
+	<Hour>0700-0755</Hour>
+	<Room>LT 04</Room>
+</Activity>
+<Activity>
+	<Id>64</Id>
+	<Day>Sunday</Day>
+	<Hour>1700-1755</Hour>
+	<Room>LT 02</Room>
+</Activity>
+<Activity>
+	<Id>65</Id>
+	<Day>Sunday</Day>
+	<Hour>1400-1455</Hour>
+	<Room>Room 8</Room>
+</Activity>
+<Activity>
+	<Id>66</Id>
+	<Day>Saturday</Day>
+	<Hour>1000-1055</Hour>
+	<Room>LT 02</Room>
+</Activity>
+<Activity>
+	<Id>68</Id>
+	<Day>Sunday</Day>
+	<Hour>1700-1755</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>69</Id>
+	<Day>Sunday</Day>
+	<Hour>1200-1255</Hour>
+	<Room>Room 3</Room>
+</Activity>
+<Activity>
+	<Id>71</Id>
+	<Day>Saturday</Day>
+	<Hour>1700-1755</Hour>
+	<Room>LT 02</Room>
+</Activity>
+<Activity>
+	<Id>73</Id>
+	<Day>Saturday</Day>
+	<Hour>0700-0755</Hour>
+	<Room>LT 01</Room>
+</Activity>
+<Activity>
+	<Id>75</Id>
+	<Day>Saturday</Day>
+	<Hour>0700-0755</Hour>
+	<Room>Room 8</Room>
+</Activity>
+<Activity>
+	<Id>76</Id>
+	<Day>Saturday</Day>
+	<Hour>1000-1055</Hour>
+	<Room>LT 01</Room>
+</Activity>
+<Activity>
+	<Id>81</Id>
+	<Day>Saturday</Day>
+	<Hour>1400-1455</Hour>
+	<Room>LT 05</Room>
+</Activity>
+<Activity>
+	<Id>82</Id>
+	<Day>Saturday</Day>
+	<Hour>1600-1655</Hour>
+	<Room>Room 3</Room>
+</Activity>
+<Activity>
+	<Id>84</Id>
+	<Day>Saturday</Day>
+	<Hour>0700-0755</Hour>
+	<Room>Room 4</Room>
+</Activity>
+<Activity>
+	<Id>85</Id>
+	<Day>Sunday</Day>
+	<Hour>1400-1455</Hour>
+	<Room>LT 04</Room>
+</Activity>
+<Activity>
+	<Id>86</Id>
+	<Day>Sunday</Day>
+	<Hour>1700-1755</Hour>
+	<Room>LT 05</Room>
+</Activity>
+<Activity>
+	<Id>87</Id>
+	<Day>Sunday</Day>
+	<Hour>0800-0855</Hour>
+	<Room>Room 3</Room>
+</Activity>
+<Activity>
+	<Id>88</Id>
+	<Day>Saturday</Day>
+	<Hour>0700-0755</Hour>
+	<Room>Room 7</Room>
+</Activity>
+<Activity>
+	<Id>90</Id>
+	<Day>Saturday</Day>
+	<Hour>1200-1255</Hour>
+	<Room>LT 04</Room>
+</Activity>
+<Activity>
+	<Id>98</Id>
+	<Day>Saturday</Day>
+	<Hour>1600-1655</Hour>
+	<Room>Lab 02</Room>
+</Activity>
+<Activity>
+	<Id>99</Id>
+	<Day>Saturday</Day>
+	<Hour>1400-1455</Hour>
+	<Room>Room 7</Room>
+</Activity>
+<Activity>
+	<Id>100</Id>
+	<Day>Saturday</Day>
+	<Hour>1300-1355</Hour>
+	<Room>LT 02</Room>
+</Activity>
+<Activity>
+	<Id>101</Id>
+	<Day>Saturday</Day>
+	<Hour>1700-1755</Hour>
+	<Room>LT 01</Room>
+</Activity>
+<Activity>
+	<Id>102</Id>
+	<Day>Sunday</Day>
+	<Hour>0700-0755</Hour>
+	<Room>Room 4</Room>
+</Activity>
+<Activity>
+	<Id>105</Id>
+	<Day>Saturday</Day>
+	<Hour>1300-1355</Hour>
+	<Room>Room 3</Room>
+</Activity>
+<Activity>
+	<Id>106</Id>
+	<Day>Sunday</Day>
+	<Hour>1100-1155</Hour>
+	<Room>Room 4</Room>
+</Activity>
+<Activity>
+	<Id>107</Id>
+	<Day>Saturday</Day>
+	<Hour>1100-1155</Hour>
+	<Room>Boardroom</Room>
+</Activity>
+<Activity>
+	<Id>108</Id>
+	<Day>Saturday</Day>
+	<Hour>1000-1055</Hour>
+	<Room>Main Hall</Room>
+</Activity>
+</Activities_Timetable>

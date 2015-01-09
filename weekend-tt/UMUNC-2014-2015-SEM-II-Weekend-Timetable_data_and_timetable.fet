@@ -1,0 +1,6093 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<fet version="5.23.3">
+
+<Institution_Name>Uganda Martyrs Universiy-Nyamitanga Campus</Institution_Name>
+
+<Comments>This is the first draft of the Weekend timetable.</Comments>
+
+<Hours_List>
+	<Number>13</Number>
+	<Name>0700-0755</Name>
+	<Name>0800-0855</Name>
+	<Name>0900-0955</Name>
+	<Name>1000-1055</Name>
+	<Name>1100-1155</Name>
+	<Name>1200-1255</Name>
+	<Name>1300-1355</Name>
+	<Name>1400-1455</Name>
+	<Name>1500-1555</Name>
+	<Name>1600-1655</Name>
+	<Name>1700-1755</Name>
+	<Name>1800-1855</Name>
+	<Name>1900-1955</Name>
+</Hours_List>
+
+<Days_List>
+	<Number>2</Number>
+	<Name>Saturday</Name>
+	<Name>Sunday</Name>
+</Days_List>
+
+<Students_List>
+<Year>
+<Name>BAM I</Name>
+<Number_of_Students>60</Number_of_Students>
+	<Group>
+	<Name>BAM I-I</Name>
+	<Number_of_Students>30</Number_of_Students>
+	</Group>
+	<Group>
+	<Name>BAM I-II</Name>
+	<Number_of_Students>30</Number_of_Students>
+	</Group>
+</Year>
+<Year>
+<Name>BAM II</Name>
+<Number_of_Students>60</Number_of_Students>
+	<Group>
+	<Name>BAM II-I</Name>
+	<Number_of_Students>30</Number_of_Students>
+	</Group>
+	<Group>
+	<Name>BAM II-II</Name>
+	<Number_of_Students>30</Number_of_Students>
+	</Group>
+</Year>
+<Year>
+<Name>BAM III</Name>
+<Number_of_Students>60</Number_of_Students>
+	<Group>
+	<Name>BAM III-I</Name>
+	<Number_of_Students>30</Number_of_Students>
+	</Group>
+</Year>
+<Year>
+<Name>BEDS I</Name>
+<Number_of_Students>60</Number_of_Students>
+</Year>
+<Year>
+<Name>BEDS II</Name>
+<Number_of_Students>60</Number_of_Students>
+	<Group>
+	<Name>BEDS II-II</Name>
+	<Number_of_Students>30</Number_of_Students>
+	</Group>
+</Year>
+<Year>
+<Name>BIT I</Name>
+<Number_of_Students>60</Number_of_Students>
+	<Group>
+	<Name>BIT I-I</Name>
+	<Number_of_Students>30</Number_of_Students>
+	</Group>
+	<Group>
+	<Name>BIT I-II</Name>
+	<Number_of_Students>30</Number_of_Students>
+	</Group>
+</Year>
+<Year>
+<Name>BIT II</Name>
+<Number_of_Students>60</Number_of_Students>
+	<Group>
+	<Name>BIT II-I</Name>
+	<Number_of_Students>30</Number_of_Students>
+	</Group>
+	<Group>
+	<Name>BIT II-II</Name>
+	<Number_of_Students>30</Number_of_Students>
+	</Group>
+</Year>
+<Year>
+<Name>BIT III</Name>
+<Number_of_Students>60</Number_of_Students>
+	<Group>
+	<Name>BIT III-I</Name>
+	<Number_of_Students>30</Number_of_Students>
+	</Group>
+</Year>
+<Year>
+<Name>DBAM I</Name>
+<Number_of_Students>60</Number_of_Students>
+	<Group>
+	<Name>DBAM I-II</Name>
+	<Number_of_Students>30</Number_of_Students>
+	</Group>
+</Year>
+<Year>
+<Name>DBAM II</Name>
+<Number_of_Students>60</Number_of_Students>
+	<Group>
+	<Name>DBAM II-I</Name>
+	<Number_of_Students>30</Number_of_Students>
+	</Group>
+	<Group>
+	<Name>DBAM II-II</Name>
+	<Number_of_Students>30</Number_of_Students>
+	</Group>
+</Year>
+<Year>
+<Name>DEDS I</Name>
+<Number_of_Students>60</Number_of_Students>
+	<Group>
+	<Name>DEDS I-II</Name>
+	<Number_of_Students>30</Number_of_Students>
+	</Group>
+</Year>
+<Year>
+<Name>DIT I</Name>
+<Number_of_Students>60</Number_of_Students>
+	<Group>
+	<Name>DIT I-II</Name>
+	<Number_of_Students>30</Number_of_Students>
+	</Group>
+</Year>
+</Students_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Dr. Conrad Mike Mubaraka (PhD)</Name>
+</Teacher>
+<Teacher>
+	<Name>Dr. Fr. Mbyemeire Patrick (PhD)</Name>
+</Teacher>
+<Teacher>
+	<Name>Dr. Nabaasa Evarist (PhD)</Name>
+</Teacher>
+<Teacher>
+	<Name>Dr. Sr. Tumusiime Eva (PhD)</Name>
+</Teacher>
+<Teacher>
+	<Name>Fr. John Baptist Tumusiime</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Agaba Banyenzaki James</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Agume Anthony</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Ahabwe Edward</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Ahimbisibwe Frank</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Athanasius Rugasira</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Atwine Alex</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Banyenzaki James</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Barigye Godfrey</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. David Bamutura</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Fred Kaggwa</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Godwin Robert</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Judas Tadeo</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Karara Festo</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Kawuma Simon</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Kelly Tumwiine</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Kenneth Baguma</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Lasto Mubiru</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Mpagane Valerian</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Mugunga Fred</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Murembe Charles</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Nuwagaba Charles</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Robert Mugonza</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Tibyanga Xavier</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Tukamwesiga Jotham</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Tumusiime Laws Mwije</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Tumwijukye Joseph</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Turyahebwa Paul</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Vincent Mutahunga</Name>
+</Teacher>
+<Teacher>
+	<Name>Mr. Vucuri Frank</Name>
+</Teacher>
+<Teacher>
+	<Name>Ms. Ayebare Peninah</Name>
+</Teacher>
+<Teacher>
+	<Name>Ms. Calorine katushabe</Name>
+</Teacher>
+<Teacher>
+	<Name>Ms. Jane Katusiime</Name>
+</Teacher>
+<Teacher>
+	<Name>Ms. Kanyesigye Stella Teddy</Name>
+</Teacher>
+<Teacher>
+	<Name>Ms. Kyakunzire Annet Mitchel</Name>
+</Teacher>
+<Teacher>
+	<Name>Ms. Nabbosa Agnes</Name>
+</Teacher>
+<Teacher>
+	<Name>Ms. Patricia Kyomugisha</Name>
+</Teacher>
+<Teacher>
+	<Name>Ms. Tino Opio</Name>
+</Teacher>
+<Teacher>
+	<Name>Ms. Tusingwire Claudia</Name>
+</Teacher>
+<Teacher>
+	<Name>aaaaaaaaa-(BAM-1)</Name>
+</Teacher>
+<Teacher>
+	<Name>aaaaaaaaaaa(IT-1)</Name>
+</Teacher>
+<Teacher>
+	<Name>bbbbbbbb-(BAM-2)</Name>
+</Teacher>
+<Teacher>
+	<Name>bbbbbbbbbbb(IT-2)</Name>
+</Teacher>
+</Teachers_List>
+
+<Subjects_List>
+<Subject>
+	<Name>ACC 1202 Fundamental Accounting II</Name>
+</Subject>
+<Subject>
+	<Name>ACC 1203 Intermediate Accounting I</Name>
+</Subject>
+<Subject>
+	<Name>ACC 2103 Intermediate Accounting I</Name>
+</Subject>
+<Subject>
+	<Name>ACC 2204 Intermediate Accounting II</Name>
+</Subject>
+<Subject>
+	<Name>ACC 2205 Cost Accounting</Name>
+</Subject>
+<Subject>
+	<Name>ACC 3106 Management Accounting</Name>
+</Subject>
+<Subject>
+	<Name>ACC 3207 Advanced and Public Sector Acounting</Name>
+</Subject>
+<Subject>
+	<Name>BCS 1206 Business Communication Skills</Name>
+</Subject>
+<Subject>
+	<Name>BDD Decentralization and Development</Name>
+</Subject>
+<Subject>
+	<Name>BEN 3101 Business English</Name>
+</Subject>
+<Subject>
+	<Name>BEN 3101 Bussiness English</Name>
+</Subject>
+<Subject>
+	<Name>BLA 1101 Business Law</Name>
+</Subject>
+<Subject>
+	<Name>BMA 2201 Management Accounting</Name>
+</Subject>
+<Subject>
+	<Name>BPO 3101 Business Policy</Name>
+</Subject>
+<Subject>
+	<Name>CA 2101 Costing Accounting</Name>
+</Subject>
+<Subject>
+	<Name>CF 2101 Corporate Finance I</Name>
+</Subject>
+<Subject>
+	<Name>CLS 2201 Original and Critical Language Skills</Name>
+</Subject>
+<Subject>
+	<Name>CLS 2201Original and critical Language Skills</Name>
+</Subject>
+<Subject>
+	<Name>COC 1101 Qualitative Methods</Name>
+</Subject>
+<Subject>
+	<Name>COC 1201 Research Methodology I</Name>
+</Subject>
+<Subject>
+	<Name>COC 2101 Research Methodology II</Name>
+</Subject>
+<Subject>
+	<Name>COL 1207 Company Law</Name>
+</Subject>
+<Subject>
+	<Name>COR 2201 Corporate Finance I</Name>
+</Subject>
+<Subject>
+	<Name>COR 3202 Corporate Finance II</Name>
+</Subject>
+<Subject>
+	<Name>COS 2101 Communication Skills</Name>
+</Subject>
+<Subject>
+	<Name>CSC 1101 Introduction To Computer Science and IT</Name>
+</Subject>
+<Subject>
+	<Name>CSC 1102 Internet Technologies and Web Page Authoring</Name>
+</Subject>
+<Subject>
+	<Name>CSC 1103 Discrete Mathematics</Name>
+</Subject>
+<Subject>
+	<Name>CSC 1104 Digital Electronics and Computer Architecture</Name>
+</Subject>
+<Subject>
+	<Name>CSC 1201 Introduction to Information Systems</Name>
+</Subject>
+<Subject>
+	<Name>CSC 1201 Programming Methodology I C++</Name>
+</Subject>
+<Subject>
+	<Name>CSC 1202 Operating Systems</Name>
+</Subject>
+<Subject>
+	<Name>CSC 1203 Development Group Project I</Name>
+</Subject>
+<Subject>
+	<Name>CSC 1204 CISCO I Introduction to Networks</Name>
+</Subject>
+<Subject>
+	<Name>CSC 2101 Object-Oriented programming II with Java I</Name>
+</Subject>
+<Subject>
+	<Name>CSC 2102 Database Planning, Design and Management I</Name>
+</Subject>
+<Subject>
+	<Name>CSC 2103 Information Systems and Databases</Name>
+</Subject>
+<Subject>
+	<Name>CSC 2103 Programming Algorithms and Data Structures</Name>
+</Subject>
+<Subject>
+	<Name>CSC 2105 Systems Administration, Computer Maintenance</Name>
+</Subject>
+<Subject>
+	<Name>CSC 2106 CISCO 2 Router and Routing Basics</Name>
+</Subject>
+<Subject>
+	<Name>CSC 2201 Object Oriented Programming II with Java II</Name>
+</Subject>
+<Subject>
+	<Name>CSC 2202 Systems Analysis and Design</Name>
+</Subject>
+<Subject>
+	<Name>CSC 2204 Website Design, Programming and Administration</Name>
+</Subject>
+<Subject>
+	<Name>CSC 2205 Communication Networks and Systems Administration</Name>
+</Subject>
+<Subject>
+	<Name>CSC 2206 CISCO 3 Switching Basics Intermediate Routing</Name>
+</Subject>
+<Subject>
+	<Name>CSC 2207 Development Group Project II</Name>
+</Subject>
+<Subject>
+	<Name>CSC 2208 Computer Maintenance and Troubleshooting</Name>
+</Subject>
+<Subject>
+	<Name>CSC 3101 Programming Methodology III with Visual Basic</Name>
+</Subject>
+<Subject>
+	<Name>CSC 3102 Database Management, Design and Administration II</Name>
+</Subject>
+<Subject>
+	<Name>CSC 3102 Electronic Commerce</Name>
+</Subject>
+<Subject>
+	<Name>CSC 3103 CISCO 4 WAN Technologies</Name>
+</Subject>
+<Subject>
+	<Name>CSC 3104 Decision Support and Collaborative Systems</Name>
+</Subject>
+<Subject>
+	<Name>CSC 3105 Managing IT Projects</Name>
+</Subject>
+<Subject>
+	<Name>CSC 3201 Web-based Database Development</Name>
+</Subject>
+<Subject>
+	<Name>CSC 3202 Software Engineering</Name>
+</Subject>
+<Subject>
+	<Name>CSC 3204 Advanced Information Systems and E-Commerce</Name>
+</Subject>
+<Subject>
+	<Name>CSC 3205 Entrepreneurship</Name>
+</Subject>
+<Subject>
+	<Name>CSC 3207 Science Technology and Ethics</Name>
+</Subject>
+<Subject>
+	<Name>DBH 1204 Primary Health Care</Name>
+</Subject>
+<Subject>
+	<Name>DDD Decentralization and Development</Name>
+</Subject>
+<Subject>
+	<Name>DDE 1203 Development Economics</Name>
+</Subject>
+<Subject>
+	<Name>DDM 2201 Data Management-Ms Access</Name>
+</Subject>
+<Subject>
+	<Name>DDP 2203 Development in Practice</Name>
+</Subject>
+<Subject>
+	<Name>DEDS 1203 Gender Issues</Name>
+</Subject>
+<Subject>
+	<Name>DEDS 1205 Language and Research</Name>
+</Subject>
+<Subject>
+	<Name>DEDS 1206 Research Paper</Name>
+</Subject>
+<Subject>
+	<Name>DIB 2201 International Business (Case Study)</Name>
+</Subject>
+<Subject>
+	<Name>DIB 2201 International Business (case study)</Name>
+</Subject>
+<Subject>
+	<Name>DIC 1103 Development in Context</Name>
+</Subject>
+<Subject>
+	<Name>DIK 1202 Indigenous Knowledge</Name>
+</Subject>
+<Subject>
+	<Name>DIPS 1101 Introduction to Information Technology I</Name>
+</Subject>
+<Subject>
+	<Name>DIPS 1102 Basics of Computer Mathematics</Name>
+</Subject>
+<Subject>
+	<Name>DIPS 1103 Introduction to Programming</Name>
+</Subject>
+<Subject>
+	<Name>DIPS 1104 Computer Architecture</Name>
+</Subject>
+<Subject>
+	<Name>DIPS 1105 Introduction to operating Systems</Name>
+</Subject>
+<Subject>
+	<Name>DIPS 1201 Introduction to Information Technology II</Name>
+</Subject>
+<Subject>
+	<Name>DIPS 1202 Web Authoring (HTML and other Editors)</Name>
+</Subject>
+<Subject>
+	<Name>DIPS 1203 Computer Maintenance and Troubleshooting </Name>
+</Subject>
+<Subject>
+	<Name>DIPS 1204 Discover One (Networking Basics)</Name>
+</Subject>
+<Subject>
+	<Name>DIPS 1205 Databse Planning and Management</Name>
+</Subject>
+<Subject>
+	<Name>DIR 2205 International Relations</Name>
+</Subject>
+<Subject>
+	<Name>DPM 2105 Project Planning and Management</Name>
+</Subject>
+<Subject>
+	<Name>DPP 1104 Introduction to development Perspective</Name>
+</Subject>
+<Subject>
+	<Name>DRS 1205 Rural Sociology</Name>
+</Subject>
+<Subject>
+	<Name>EBC 1101 Basic Computer Literacy</Name>
+</Subject>
+<Subject>
+	<Name>ECO 1101 Managerial/ Miro / Economics I</Name>
+</Subject>
+<Subject>
+	<Name>ECO 1101 Microeconomics</Name>
+</Subject>
+<Subject>
+	<Name>ECO 1202 Economics II</Name>
+</Subject>
+<Subject>
+	<Name>ECO 1202 Managerial Economics II</Name>
+</Subject>
+<Subject>
+	<Name>EFA 1105 Fundamental Accounting</Name>
+</Subject>
+<Subject>
+	<Name>ENG 1101 English Language Grammar</Name>
+</Subject>
+<Subject>
+	<Name>ENT 2101 Basic Principles of Entrepreneurship</Name>
+</Subject>
+<Subject>
+	<Name>ENT 2102 Entrepreneurship Practice</Name>
+</Subject>
+<Subject>
+	<Name>ERM 22206 Introduction to Research</Name>
+</Subject>
+<Subject>
+	<Name>FOM 1101 Fundumentals of Mathematics</Name>
+</Subject>
+<Subject>
+	<Name>GDG 2104 Gender Women and Development</Name>
+</Subject>
+<Subject>
+	<Name>HRM 3101 Human Resource Management</Name>
+</Subject>
+<Subject>
+	<Name>IBC 1101 Introduction to Business Communication I</Name>
+</Subject>
+<Subject>
+	<Name>IBE 1101 Introduction to business Environment</Name>
+</Subject>
+<Subject>
+	<Name>IRM 3201 Industrial Relations Management</Name>
+</Subject>
+<Subject>
+	<Name>LAW 2101 Law of Contract</Name>
+</Subject>
+<Subject>
+	<Name>LAW 3102 Law of Business Organization</Name>
+</Subject>
+<Subject>
+	<Name>LIT 1201 Literature and Composition</Name>
+</Subject>
+<Subject>
+	<Name>MGT 1101 Principles of Management</Name>
+</Subject>
+<Subject>
+	<Name>MKT 3201 Marketing Strategies</Name>
+</Subject>
+<Subject>
+	<Name>MTC 1102 Elements of Mathematics</Name>
+</Subject>
+<Subject>
+	<Name>MTH 1102 Elements of Math</Name>
+</Subject>
+<Subject>
+	<Name>Money Banking and Public Finance</Name>
+</Subject>
+<Subject>
+	<Name>NCA 001 Fundamentals of Accounting</Name>
+</Subject>
+<Subject>
+	<Name>NCA 003 General Principles of Law</Name>
+</Subject>
+<Subject>
+	<Name>NCA 005 Bussiness Calculations</Name>
+</Subject>
+<Subject>
+	<Name>NCA 010 Fundamentals of Management</Name>
+</Subject>
+<Subject>
+	<Name>NCA Computer Fundamentals and Data Processing (Processing)</Name>
+</Subject>
+<Subject>
+	<Name>NCBM 001 Fundamentals of Management</Name>
+</Subject>
+<Subject>
+	<Name>NCBM 002 Fundamentals of Accounting</Name>
+</Subject>
+<Subject>
+	<Name>NCBM 007 General Principles of Law</Name>
+</Subject>
+<Subject>
+	<Name>NCBM 008 Bussiness Calculations</Name>
+</Subject>
+<Subject>
+	<Name>NCBM Computer Fundametals and Data Processing (Practical)</Name>
+</Subject>
+<Subject>
+	<Name>NCBS Computer Fundamentals and data Processing</Name>
+</Subject>
+<Subject>
+	<Name>NCSS Computer Fundamentals and Data Processing (Practical)</Name>
+</Subject>
+<Subject>
+	<Name>NDA 006 Business Organization Management</Name>
+</Subject>
+<Subject>
+	<Name>NDA Computer Fundamentals and Data Processing</Name>
+</Subject>
+<Subject>
+	<Name>NDBM 010 Human Resource Management</Name>
+</Subject>
+<Subject>
+	<Name>NDBM Business Organization Management</Name>
+</Subject>
+<Subject>
+	<Name>NDBM Computer Fundamentals and Data Processing (Practical)</Name>
+</Subject>
+<Subject>
+	<Name>NDSS 003 Fundamentals of Accounting</Name>
+</Subject>
+<Subject>
+	<Name>NDSS 007 Secretarial Duties</Name>
+</Subject>
+<Subject>
+	<Name>NDSS Computer Fundametals and Data Processing (Practical)</Name>
+</Subject>
+<Subject>
+	<Name>NGBM 004 Business Law</Name>
+</Subject>
+<Subject>
+	<Name>OB 1202 Origanizational Behaviour</Name>
+</Subject>
+<Subject>
+	<Name>OB 2101 Organizational Behaviour</Name>
+</Subject>
+<Subject>
+	<Name>PAC 1202 Africa, Culture and Society</Name>
+</Subject>
+<Subject>
+	<Name>PCT 1101 Introduction to Critical Thought</Name>
+</Subject>
+<Subject>
+	<Name>PEF 2201 Ethics in Focus</Name>
+</Subject>
+<Subject>
+	<Name>PFA 2101 Ethics and Africa Develoment</Name>
+</Subject>
+<Subject>
+	<Name>PIE 1102 Introduction to Ethics</Name>
+</Subject>
+<Subject>
+	<Name>PIE 1202 Introduction to Ethics</Name>
+</Subject>
+<Subject>
+	<Name>PMGT 3012 Project Planning and Management I</Name>
+</Subject>
+<Subject>
+	<Name>POM 2101 Production Operations Management</Name>
+</Subject>
+<Subject>
+	<Name>PRO 2201 Procurement Management Principles</Name>
+</Subject>
+<Subject>
+	<Name>PRO 3202 Strategic Procurement Management</Name>
+</Subject>
+<Subject>
+	<Name>PRO 3203 Procurement Tactics and Operations</Name>
+</Subject>
+<Subject>
+	<Name>PRO 3204 Logistics and Supply Chain Management</Name>
+</Subject>
+<Subject>
+	<Name>Public Lecture</Name>
+</Subject>
+<Subject>
+	<Name>QM 1201 Quantitative Methods</Name>
+</Subject>
+<Subject>
+	<Name>REM 2101 Research Methodology</Name>
+</Subject>
+<Subject>
+	<Name>REM 2101 Research Methodology II</Name>
+</Subject>
+<Subject>
+	<Name>SHRM 2201 Strategic Human Resource Management</Name>
+</Subject>
+<Subject>
+	<Name>SMKT 2201 Strategic Marketing</Name>
+</Subject>
+<Subject>
+	<Name>SSM 2201 Spreadsheets-Ms Excel</Name>
+</Subject>
+<Subject>
+	<Name>STA 1101 Introduction to Statistics</Name>
+</Subject>
+<Subject>
+	<Name>STAT 2101 Statistics</Name>
+</Subject>
+<Subject>
+	<Name>TAX 3201 Taxation and Tax Management</Name>
+</Subject>
+<Subject>
+	<Name>WP 1204 Word Processing-Using Ms Word</Name>
+</Subject>
+</Subjects_List>
+
+<Activity_Tags_List>
+</Activity_Tags_List>
+
+<Activities_List>
+<Activity>
+	<Teacher>Dr. Nabaasa Evarist (PhD)</Teacher>
+	<Subject>CSC 1204 CISCO I Introduction to Networks</Subject>
+	<Students>BIT I-II</Students>
+	<Students>DIT I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>1</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>30</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Kawuma Simon</Teacher>
+	<Subject>CSC 1201 Programming Methodology I C++</Subject>
+	<Students>BIT I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>2</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>20</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Kawuma Simon</Teacher>
+	<Subject>CSC 2207 Development Group Project II</Subject>
+	<Students>BIT II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>3</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>20</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. David Bamutura</Teacher>
+	<Subject>CSC 2201 Object Oriented Programming II with Java II</Subject>
+	<Students>BIT II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>4</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>12</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ms. Jane Katusiime</Teacher>
+	<Subject>CSC 2103 Programming Algorithms and Data Structures</Subject>
+	<Students>BIT II-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>6</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>20</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ms. Jane Katusiime</Teacher>
+	<Subject>CSC 2202 Systems Analysis and Design</Subject>
+	<Students>BIT II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>7</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>20</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ms. Jane Katusiime</Teacher>
+	<Subject>CSC 2202 Systems Analysis and Design</Subject>
+	<Students>BIT III-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>8</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>7</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Lasto Mubiru</Teacher>
+	<Subject>CSC 2106 CISCO 2 Router and Routing Basics</Subject>
+	<Students>BIT II-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>9</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>16</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Lasto Mubiru</Teacher>
+	<Subject>CSC 2206 CISCO 3 Switching Basics Intermediate Routing</Subject>
+	<Students>BIT II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>10</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>16</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Lasto Mubiru</Teacher>
+	<Subject>CSC 3103 CISCO 4 WAN Technologies</Subject>
+	<Students>BIT III-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>11</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>16</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Robert Mugonza</Teacher>
+	<Subject>CSC 1101 Introduction To Computer Science and IT</Subject>
+	<Students>BIT I-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>12</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>18</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Robert Mugonza</Teacher>
+	<Subject>CSC 2205 Communication Networks and Systems Administration</Subject>
+	<Students>BIT II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>13</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>19</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Judas Tadeo</Teacher>
+	<Subject>CSC 1203 Development Group Project I</Subject>
+	<Students>BIT I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>14</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>20</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Judas Tadeo</Teacher>
+	<Subject>CSC 2204 Website Design, Programming and Administration</Subject>
+	<Students>BIT II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>15</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Kelly Tumwiine</Teacher>
+	<Subject>EBC 1101 Basic Computer Literacy</Subject>
+	<Students>BAM I-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>16</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>10</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Kelly Tumwiine</Teacher>
+	<Subject>CSC 3102 Electronic Commerce</Subject>
+	<Students>BIT III-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>17</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>35</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Kelly Tumwiine</Teacher>
+	<Subject>CSC 1201 Introduction to Information Systems</Subject>
+	<Students>BAM I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>18</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>25</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ms. Patricia Kyomugisha</Teacher>
+	<Subject>DDM 2201 Data Management-Ms Access</Subject>
+	<Students>DBAM II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>19</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>25</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ms. Patricia Kyomugisha</Teacher>
+	<Subject>WP 1204 Word Processing-Using Ms Word</Subject>
+	<Students>DBAM I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>20</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>15</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ms. Calorine katushabe</Teacher>
+	<Subject>SSM 2201 Spreadsheets-Ms Excel</Subject>
+	<Students>DBAM II-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>21</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>15</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Kenneth Baguma</Teacher>
+	<Subject>CSC 1102 Internet Technologies and Web Page Authoring</Subject>
+	<Students>BIT I-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>22</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>13</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Kenneth Baguma</Teacher>
+	<Subject>DIPS 1201 Introduction to Information Technology II</Subject>
+	<Students>DIT I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>23</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>13</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Fred Kaggwa</Teacher>
+	<Subject>CSC 2105 Systems Administration, Computer Maintenance</Subject>
+	<Students>BIT II-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>24</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>13</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Fred Kaggwa</Teacher>
+	<Subject>CSC 3104 Decision Support and Collaborative Systems</Subject>
+	<Students>BIT III-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>25</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>13</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Fred Kaggwa</Teacher>
+	<Subject>CSC 2208 Computer Maintenance and Troubleshooting</Subject>
+	<Students>BIT III-I</Students>
+	<Students>BIT II-II</Students>
+	<Students>DIT I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>26</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>13</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Dr. Conrad Mike Mubaraka (PhD)</Teacher>
+	<Subject>CSC 2101 Object-Oriented programming II with Java I</Subject>
+	<Students>BIT II-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>27</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>15</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Dr. Conrad Mike Mubaraka (PhD)</Teacher>
+	<Subject>CSC 3101 Programming Methodology III with Visual Basic</Subject>
+	<Students>BIT III-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>28</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>8</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Dr. Conrad Mike Mubaraka (PhD)</Teacher>
+	<Subject>CSC 3201 Web-based Database Development</Subject>
+	<Students>BIT III-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>29</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>8</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>aaaaaaaaaaa(IT-1)</Teacher>
+	<Subject>CSC 1202 Operating Systems</Subject>
+	<Students>BIT I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>31</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>20</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>bbbbbbbbbbb(IT-2)</Teacher>
+	<Subject>CSC 1104 Digital Electronics and Computer Architecture</Subject>
+	<Students>BIT I-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>33</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>15</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>bbbbbbbbbbb(IT-2)</Teacher>
+	<Subject>CSC 2103 Information Systems and Databases</Subject>
+	<Students>BAM II-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>34</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>23</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Athanasius Rugasira</Teacher>
+	<Subject>CSC 1103 Discrete Mathematics</Subject>
+	<Students>BIT I-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>35</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>23</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Godwin Robert</Teacher>
+	<Subject>STA 1101 Introduction to Statistics</Subject>
+	<Students>BIT I-I</Students>
+	<Students>BAM I-I</Students>
+	<Students>DBAM II-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>37</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>23</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Godwin Robert</Teacher>
+	<Subject>MTC 1102 Elements of Mathematics</Subject>
+	<Students>BIT I-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>38</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>13</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Godwin Robert</Teacher>
+	<Subject>QM 1201 Quantitative Methods</Subject>
+	<Students>BAM I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>39</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>13</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Karara Festo</Teacher>
+	<Subject>LIT 1201 Literature and Composition</Subject>
+	<Students>BAM I-II</Students>
+	<Students>BIT I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>40</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>26</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Karara Festo</Teacher>
+	<Subject>BCS 1206 Business Communication Skills</Subject>
+	<Students>DBAM I-II</Students>
+	<Students>BAM II-I</Students>
+	<Students>BIT II-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>41</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>26</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Karara Festo</Teacher>
+	<Subject>CLS 2201Original and critical Language Skills</Subject>
+	<Students>BAM II-II</Students>
+	<Students>BIT II-II</Students>
+	<Students>BEDS II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>42</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>26</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Tibyanga Xavier</Teacher>
+	<Subject>ENG 1101 English Language Grammar</Subject>
+	<Students>BAM I-I</Students>
+	<Students>BIT I-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>43</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>26</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Tibyanga Xavier</Teacher>
+	<Subject>DEDS 1205 Language and Research</Subject>
+	<Students>DEDS I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>45</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>19</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Atwine Alex</Teacher>
+	<Subject>COL 1207 Company Law</Subject>
+	<Students>DBAM I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>47</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>15</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Atwine Alex</Teacher>
+	<Subject>LAW 2101 Law of Contract</Subject>
+	<Students>BAM II-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>48</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>15</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Agume Anthony</Teacher>
+	<Subject>ACC 3207 Advanced and Public Sector Acounting</Subject>
+	<Students>BAM III-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>51</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>19</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Agume Anthony</Teacher>
+	<Subject>ACC 2103 Intermediate Accounting I</Subject>
+	<Students>BAM II-I</Students>
+	<Students>DBAM I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>52</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>19</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Vincent Mutahunga</Teacher>
+	<Subject>ACC 1202 Fundamental Accounting II</Subject>
+	<Students>BAM I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>53</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>19</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Vincent Mutahunga</Teacher>
+	<Subject>MGT 1101 Principles of Management</Subject>
+	<Students>BAM I-I</Students>
+	<Students>DBAM I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>54</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>19</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Tukamwesiga Jotham</Teacher>
+	<Subject>ACC 2205 Cost Accounting</Subject>
+	<Students>BAM II-II</Students>
+	<Students>DBAM II-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>55</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>17</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Tukamwesiga Jotham</Teacher>
+	<Subject>POM 2101 Production Operations Management</Subject>
+	<Students>BAM II-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>56</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>17</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ms. Kanyesigye Stella Teddy</Teacher>
+	<Subject>FOM 1101 Fundumentals of Mathematics</Subject>
+	<Students>BAM I-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>57</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>17</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ms. Kyakunzire Annet Mitchel</Teacher>
+	<Subject>ENT 2101 Basic Principles of Entrepreneurship</Subject>
+	<Students>BAM II-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>59</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>45</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ms. Tusingwire Claudia</Teacher>
+	<Subject>HRM 3101 Human Resource Management</Subject>
+	<Students>BAM III-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>60</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>26</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ms. Tusingwire Claudia</Teacher>
+	<Subject>BPO 3101 Business Policy</Subject>
+	<Students>BAM III-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>61</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>26</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Agaba Banyenzaki James</Teacher>
+	<Subject>OB 1202 Origanizational Behaviour</Subject>
+	<Students>BAM I-II</Students>
+	<Students>DBAM II-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>63</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>20</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Barigye Godfrey</Teacher>
+	<Subject>PMGT 3012 Project Planning and Management I</Subject>
+	<Students>BAM III-I</Students>
+	<Students>DEDS I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>64</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>15</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Mpagane Valerian</Teacher>
+	<Subject>CF 2101 Corporate Finance I</Subject>
+	<Students>BAM II-II</Students>
+	<Students>DBAM II-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>65</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>15</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Mpagane Valerian</Teacher>
+	<Subject>ACC 3106 Management Accounting</Subject>
+	<Students>BAM III-I</Students>
+	<Students>DBAM II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>66</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>15</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Ahabwe Edward</Teacher>
+	<Subject>PRO 2201 Procurement Management Principles</Subject>
+	<Students>BAM II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>68</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>15</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>aaaaaaaaa-(BAM-1)</Teacher>
+	<Subject>DIB 2201 International Business (Case Study)</Subject>
+	<Students>DBAM II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>69</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>15</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ms. Kanyesigye Stella Teddy</Teacher>
+	<Subject>COC 2101 Research Methodology II</Subject>
+	<Students>BIT II-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>71</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>34</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Turyahebwa Paul</Teacher>
+	<Subject>ACC 2204 Intermediate Accounting II</Subject>
+	<Students>BAM II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>73</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>50</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Mpagane Valerian</Teacher>
+	<Subject>DIB 2201 International Business (Case Study)</Subject>
+	<Students>DBAM II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>75</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>15</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>bbbbbbbb-(BAM-2)</Teacher>
+	<Subject>COR 2201 Corporate Finance I</Subject>
+	<Students>DBAM II-I</Students>
+	<Students>BAM II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>76</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>33</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Dr. Fr. Mbyemeire Patrick (PhD)</Teacher>
+	<Subject>PIE 1202 Introduction to Ethics</Subject>
+	<Students>BAM I-II</Students>
+	<Students>BIT I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>81</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>19</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ms. Nabbosa Agnes</Teacher>
+	<Subject>DEDS 1203 Gender Issues</Subject>
+	<Students>DEDS I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>82</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>13</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Fr. John Baptist Tumusiime</Teacher>
+	<Subject>DDP 2203 Development in Practice</Subject>
+	<Students>BEDS II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>84</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>13</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Tumwijukye Joseph</Teacher>
+	<Subject>DRS 1205 Rural Sociology</Subject>
+	<Students>DEDS I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>85</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>13</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Tumwijukye Joseph</Teacher>
+	<Subject>DDD Decentralization and Development</Subject>
+	<Students>BEDS II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>86</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>13</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Vucuri Frank</Teacher>
+	<Subject>PEF 2201 Ethics in Focus</Subject>
+	<Students>BIT I-II</Students>
+	<Students>BEDS II-II</Students>
+	<Students>BAM II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>87</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>28</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Ahimbisibwe Frank</Teacher>
+	<Subject>PFA 2101 Ethics and Africa Develoment</Subject>
+	<Students>DEDS I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>88</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>10</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ms. Tino Opio</Teacher>
+	<Subject>DIR 2205 International Relations</Subject>
+	<Students>BEDS II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>90</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>13</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Tibyanga Xavier</Teacher>
+	<Subject>BEN 3101 Business English</Subject>
+	<Students>BAM III-I</Students>
+	<Students>BIT III-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>98</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>18</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ms. Tusingwire Claudia</Teacher>
+	<Subject>SHRM 2201 Strategic Human Resource Management</Subject>
+	<Students>DBAM II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>99</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>15</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Tumusiime Laws Mwije</Teacher>
+	<Subject>LAW 3102 Law of Business Organization</Subject>
+	<Students>BAM III-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>100</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>26</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Tumusiime Laws Mwije</Teacher>
+	<Subject>LAW 2101 Law of Contract</Subject>
+	<Students>BAM II-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>101</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>26</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Tumusiime Laws Mwije</Teacher>
+	<Subject>COL 1207 Company Law</Subject>
+	<Students>DBAM I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>102</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>26</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Banyenzaki James</Teacher>
+	<Subject>ENT 2102 Entrepreneurship Practice</Subject>
+	<Students>BAM II-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>105</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>13</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mr. Nuwagaba Charles</Teacher>
+	<Subject>MKT 3201 Marketing Strategies</Subject>
+	<Students>BAM III-I</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>106</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>5</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Ms. Ayebare Peninah</Teacher>
+	<Subject>ECO 1202 Managerial Economics II</Subject>
+	<Students>BAM I-II</Students>
+	<Students>DBAM I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>107</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>20</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Dr. Sr. Tumusiime Eva (PhD)</Teacher>
+	<Subject>COC 1201 Research Methodology I</Subject>
+	<Students>BIT I-II</Students>
+	<Students>BAM II-I</Students>
+	<Students>DEDS I-II</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>108</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Number_Of_Students>40</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+</Activities_List>
+
+<Buildings_List>
+<Building>
+	<Name>Upper campus</Name>
+</Building>
+<Building>
+	<Name>Lower campus</Name>
+</Building>
+</Buildings_List>
+
+<Rooms_List>
+<Room>
+	<Name>Room 7</Name>
+	<Building>Upper campus</Building>
+	<Capacity>25</Capacity>
+</Room>
+<Room>
+	<Name>Room 8</Name>
+	<Building>Upper campus</Building>
+	<Capacity>25</Capacity>
+</Room>
+<Room>
+	<Name>Main Hall</Name>
+	<Building>Upper campus</Building>
+	<Capacity>100</Capacity>
+</Room>
+<Room>
+	<Name>Room 3</Name>
+	<Building>Upper campus</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>Room 4</Name>
+	<Building>Upper campus</Building>
+	<Capacity>30</Capacity>
+</Room>
+<Room>
+	<Name>Lab 01</Name>
+	<Building>Upper campus</Building>
+	<Capacity>20</Capacity>
+</Room>
+<Room>
+	<Name>Lab 02</Name>
+	<Building>Upper campus</Building>
+	<Capacity>35</Capacity>
+</Room>
+<Room>
+	<Name>LT 01</Name>
+	<Building>Lower campus</Building>
+	<Capacity>100</Capacity>
+</Room>
+<Room>
+	<Name>LT 02</Name>
+	<Building>Lower campus</Building>
+	<Capacity>40</Capacity>
+</Room>
+<Room>
+	<Name>CompLab 01</Name>
+	<Building>Lower campus</Building>
+	<Capacity>40</Capacity>
+</Room>
+<Room>
+	<Name>CompLab 02</Name>
+	<Building>Lower campus</Building>
+	<Capacity>40</Capacity>
+</Room>
+<Room>
+	<Name>CompLab 03</Name>
+	<Building>Lower campus</Building>
+	<Capacity>40</Capacity>
+</Room>
+<Room>
+	<Name>LT 04</Name>
+	<Building>Lower campus</Building>
+	<Capacity>40</Capacity>
+</Room>
+<Room>
+	<Name>LT 05</Name>
+	<Building>Lower campus</Building>
+	<Capacity>40</Capacity>
+</Room>
+<Room>
+	<Name>Boardroom</Name>
+	<Building>Lower campus</Building>
+	<Capacity>100</Capacity>
+</Room>
+</Rooms_List>
+
+<Time_Constraints_List>
+<ConstraintBasicCompulsoryTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsoryTime>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mr. Robert Mugonza</Teacher>
+	<Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mr. Kenneth Baguma</Teacher>
+	<Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mr. Athanasius Rugasira</Teacher>
+	<Number_of_Not_Available_Times>13</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mr. Kawuma Simon</Teacher>
+	<Number_of_Not_Available_Times>7</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Dr. Nabaasa Evarist (PhD)</Teacher>
+	<Number_of_Not_Available_Times>13</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Ms. Jane Katusiime</Teacher>
+	<Number_of_Not_Available_Times>13</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Ms. Calorine katushabe</Teacher>
+	<Number_of_Not_Available_Times>16</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Ms. Patricia Kyomugisha</Teacher>
+	<Number_of_Not_Available_Times>16</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Dr. Fr. Mbyemeire Patrick (PhD)</Teacher>
+	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>25</Weight_Percentage>
+	<Activity_Id>53</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>25</Weight_Percentage>
+	<Activity_Id>54</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>0900-0955</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Dr. Conrad Mike Mubaraka (PhD)</Teacher>
+	<Number_of_Not_Available_Times>16</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mr. Tumusiime Laws Mwije</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mr. David Bamutura</Teacher>
+	<Number_of_Not_Available_Times>23</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mr. Agume Anthony</Teacher>
+	<Number_of_Not_Available_Times>20</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>50</Weight_Percentage>
+	<Activity_Id>51</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>0900-0955</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mr. Karara Festo</Teacher>
+	<Number_of_Not_Available_Times>14</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Ms. Kanyesigye Stella Teddy</Teacher>
+	<Number_of_Not_Available_Times>9</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Dr. Sr. Tumusiime Eva (PhD)</Teacher>
+	<Number_of_Not_Available_Times>19</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Ms. Kyakunzire Annet Mitchel</Teacher>
+	<Number_of_Not_Available_Times>19</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mr. Turyahebwa Paul</Teacher>
+	<Number_of_Not_Available_Times>0</Number_of_Not_Available_Times>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mr. Banyenzaki James</Teacher>
+	<Number_of_Not_Available_Times>8</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mr. Barigye Godfrey</Teacher>
+	<Number_of_Not_Available_Times>22</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mr. Ahimbisibwe Frank</Teacher>
+	<Number_of_Not_Available_Times>18</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Activity_Id>88</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mr. Fred Kaggwa</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Ms. Ayebare Peninah</Teacher>
+	<Number_of_Not_Available_Times>13</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mr. Judas Tadeo</Teacher>
+	<Number_of_Not_Available_Times>13</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Fr. John Baptist Tumusiime</Teacher>
+	<Number_of_Not_Available_Times>23</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>35</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1000-1055</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mr. Atwine Alex</Teacher>
+	<Number_of_Not_Available_Times>13</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0700-0755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0800-0855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>0900-0955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1000-1055</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1100-1155</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1200-1255</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1300-1355</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1400-1455</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1500-1555</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1600-1655</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mr. Lasto Mubiru</Teacher>
+	<Number_of_Not_Available_Times>6</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Saturday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1700-1755</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1800-1855</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sunday</Day>
+		<Hour>1900-1955</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>1</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>2</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1700-1755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>3</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1100-1155</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>4</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1400-1455</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>6</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1000-1055</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>7</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>8</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1000-1055</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>9</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1400-1455</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>10</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>11</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1300-1355</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>12</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>13</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1700-1755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>14</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1700-1755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>15</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1400-1455</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>16</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1700-1755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>17</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>18</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1000-1055</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>19</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1600-1655</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>20</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1500-1555</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>21</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1700-1755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>22</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1200-1255</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>23</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1000-1055</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>24</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>0900-0955</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>25</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1300-1355</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>26</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1700-1755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>27</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1300-1355</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>28</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1000-1055</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>29</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>31</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1100-1155</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>33</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1700-1755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>34</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1000-1055</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>37</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>0900-0955</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>38</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1700-1755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>39</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1700-1755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>40</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1400-1455</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>41</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>42</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1100-1155</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>43</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1300-1355</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>45</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>0800-0855</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>47</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1100-1155</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>48</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>51</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>52</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1700-1755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>53</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1700-1755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>54</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1400-1455</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>55</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1700-1755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>56</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1300-1355</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>57</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1000-1055</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>59</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1400-1455</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>60</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>61</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1400-1455</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>63</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>64</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1700-1755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>65</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1400-1455</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>66</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1000-1055</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>68</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1700-1755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>69</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1200-1255</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>71</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1700-1755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>73</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>75</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>76</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1000-1055</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>81</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1400-1455</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>82</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1600-1655</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>84</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>85</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1400-1455</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>86</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1700-1755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>87</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>0800-0855</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>88</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>90</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1200-1255</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>98</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1600-1655</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>99</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1400-1455</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1300-1355</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>101</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1700-1755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>102</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>0700-0755</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>105</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1300-1355</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>106</Activity_Id>
+	<Preferred_Day>Sunday</Preferred_Day>
+	<Preferred_Hour>1100-1155</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>107</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1100-1155</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>108</Activity_Id>
+	<Preferred_Day>Saturday</Preferred_Day>
+	<Preferred_Hour>1000-1055</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+</Time_Constraints_List>
+
+<Space_Constraints_List>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Students>DBAM II</Students>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Preferred_Room>Main Hall</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Students>DBAM I</Students>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Preferred_Room>Main Hall</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Students>BAM III</Students>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Preferred_Room>Main Hall</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Students>BAM II</Students>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Preferred_Room>Main Hall</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Students>BAM I</Students>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Preferred_Room>Main Hall</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Students>BEDS I</Students>
+	<Number_of_Preferred_Rooms>6</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Preferred_Room>Main Hall</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Students>BEDS II</Students>
+	<Number_of_Preferred_Rooms>6</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Preferred_Room>Main Hall</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Students>DEDS I</Students>
+	<Number_of_Preferred_Rooms>6</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Preferred_Room>Main Hall</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Students>BIT I</Students>
+	<Number_of_Preferred_Rooms>6</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Preferred_Room>Main Hall</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Students>BIT II</Students>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Preferred_Room>Main Hall</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Students>BIT III</Students>
+	<Number_of_Preferred_Rooms>6</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Preferred_Room>Main Hall</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Students>DIT I</Students>
+	<Number_of_Preferred_Rooms>6</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Preferred_Room>Main Hall</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>50</Weight_Percentage>
+	<Subject>ACC 1202 Fundamental Accounting II</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Preferred_Room>Main Hall</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>50</Weight_Percentage>
+	<Subject>ACC 1203 Intermediate Accounting I</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Main Hall</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>50</Weight_Percentage>
+	<Subject>ACC 2103 Intermediate Accounting I</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>50</Weight_Percentage>
+	<Subject>ACC 2204 Intermediate Accounting II</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>50</Weight_Percentage>
+	<Subject>ACC 2204 Intermediate Accounting II</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>50</Weight_Percentage>
+	<Subject>ACC 2205 Cost Accounting</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>50</Weight_Percentage>
+	<Subject>ACC 3106 Management Accounting</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>50</Weight_Percentage>
+	<Subject>ACC 3207 Advanced and Public Sector Acounting</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>50</Weight_Percentage>
+	<Subject>BLA 1101 Business Law</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>50</Weight_Percentage>
+	<Subject>BMA 2201 Management Accounting</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>50</Weight_Percentage>
+	<Subject>BPO 3101 Business Policy</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>50</Weight_Percentage>
+	<Subject>CA 2101 Costing Accounting</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>50</Weight_Percentage>
+	<Subject>CF 2101 Corporate Finance I</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>COL 1207 Company Law</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>COR 2201 Corporate Finance I</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>COR 3202 Corporate Finance II</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 3204 Advanced Information Systems and E-Commerce</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 1101 Introduction To Computer Science and IT</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 1102 Internet Technologies and Web Page Authoring</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 1104 Digital Electronics and Computer Architecture</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 1201 Programming Methodology I C++</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 1202 Operating Systems</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 1203 Development Group Project I</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 1204 CISCO I Introduction to Networks</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 2101 Object-Oriented programming II with Java I</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 2102 Database Planning, Design and Management I</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 2103 Programming Algorithms and Data Structures</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 2105 Systems Administration, Computer Maintenance</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 2106 CISCO 2 Router and Routing Basics</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 2201 Object Oriented Programming II with Java II</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 2202 Systems Analysis and Design</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 2204 Website Design, Programming and Administration</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 2205 Communication Networks and Systems Administration</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 2206 CISCO 3 Switching Basics Intermediate Routing</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 2207 Development Group Project II</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 2208 Computer Maintenance and Troubleshooting</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 3101 Programming Methodology III with Visual Basic</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 3102 Database Management, Design and Administration II</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 3102 Electronic Commerce</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 3103 CISCO 4 WAN Technologies</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 3104 Decision Support and Collaborative Systems</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 3105 Managing IT Projects</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 3201 Web-based Database Development</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 3202 Software Engineering</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 3204 Advanced Information Systems and E-Commerce</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>BDD Decentralization and Development</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>DBH 1204 Primary Health Care</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>DDD Decentralization and Development</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>DDE 1203 Development Economics</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>DDP 2203 Development in Practice</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>DEDS 1203 Gender Issues</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>DEDS 1205 Language and Research</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>DPP 1104 Introduction to development Perspective</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>DRS 1205 Rural Sociology</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>ENT 2102 Entrepreneurship Practice</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>ENT 2101 Basic Principles of Entrepreneurship</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>ERM 22206 Introduction to Research</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>FOM 1101 Fundumentals of Mathematics</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>Money Banking and Public Finance</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>OB 1202 Origanizational Behaviour</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>OB 2101 Organizational Behaviour</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>PAC 1202 Africa, Culture and Society</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>PCT 1101 Introduction to Critical Thought</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>PEF 2201 Ethics in Focus</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>GDG 2104 Gender Women and Development</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>PIE 1102 Introduction to Ethics</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>PIE 1202 Introduction to Ethics</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>REM 2101 Research Methodology</Subject>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>CSC 1204 CISCO I Introduction to Networks</Subject>
+	<Room>CompLab 03</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>CSC 2106 CISCO 2 Router and Routing Basics</Subject>
+	<Room>CompLab 03</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>CSC 2206 CISCO 3 Switching Basics Intermediate Routing</Subject>
+	<Room>CompLab 03</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>CSC 3103 CISCO 4 WAN Technologies</Subject>
+	<Room>CompLab 03</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>BEN 3101 Business English</Subject>
+	<Room>Lab 02</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>BCS 1206 Business Communication Skills</Subject>
+	<Room>Main Hall</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>CLS 2201Original and critical Language Skills</Subject>
+	<Room>Main Hall</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>COC 1201 Research Methodology I</Subject>
+	<Room>LT 02</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CLS 2201Original and critical Language Skills</Subject>
+	<Room>LT 02</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>COC 1201 Research Methodology I</Subject>
+	<Room>Main Hall</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>COS 2101 Communication Skills</Subject>
+	<Room>Main Hall</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 3205 Entrepreneurship</Subject>
+	<Room>LT 02</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>CSC 3207 Science Technology and Ethics</Subject>
+	<Room>Room 7</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>ECO 1101 Managerial/ Miro / Economics I</Subject>
+	<Room>Main Hall</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>ECO 1101 Managerial/ Miro / Economics I</Subject>
+	<Room>LT 02</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>ECO 1101 Microeconomics</Subject>
+	<Room>LT 02</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>ECO 1202 Economics II</Subject>
+	<Room>LT 02</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>ECO 1202 Managerial Economics II</Subject>
+	<Room>LT 02</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Subject>ENG 1101 English Language Grammar</Subject>
+	<Room>LT 02</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>85</Weight_Percentage>
+	<Subject>ENG 1101 English Language Grammar</Subject>
+	<Room>Main Hall</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>85</Weight_Percentage>
+	<Subject>ECO 1202 Managerial Economics II</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Main Hall</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>35</Activity_Id>
+	<Room>Room 3</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>16</Activity_Id>
+	<Room>Lab 01</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>4</Activity_Id>
+	<Room>Lab 02</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintBasicCompulsorySpace>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsorySpace>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Students>BAM II-I</Students>
+	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>DBAM II-I</Students>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>DBAM II-II</Students>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Students>BAM III-I</Students>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>50</Weight_Percentage>
+	<Students>BEDS II-II</Students>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintStudentsSetHomeRooms>
+	<Weight_Percentage>75</Weight_Percentage>
+	<Students>DBAM I-II</Students>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Preferred_Room>LT 05</Preferred_Room>
+	<Preferred_Room>LT 04</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsSetHomeRooms>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>75</Activity_Id>
+	<Room>Room 8</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>75</Activity_Id>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRooms>
+<ConstraintSubjectPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>PFA 2101 Ethics and Africa Develoment</Subject>
+	<Room>Room 7</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>64</Activity_Id>
+	<Room>LT 02</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintTeacherHomeRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mr. Godwin Robert</Teacher>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Preferred_Room>Room 7</Preferred_Room>
+	<Preferred_Room>Room 8</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherHomeRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>LIT 1201 Literature and Composition</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>Main Hall</Preferred_Room>
+	<Preferred_Room>Boardroom</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>CSC 1201 Introduction to Information Systems</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>DIPS 1201 Introduction to Information Technology II</Subject>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>CompLab 01</Preferred_Room>
+	<Preferred_Room>CompLab 02</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>CSC 1102 Internet Technologies and Web Page Authoring</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>Lab 02</Preferred_Room>
+	<Preferred_Room>Lab 01</Preferred_Room>
+	<Preferred_Room>CompLab 03</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>MGT 1101 Principles of Management</Subject>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>COC 2101 Research Methodology II</Subject>
+	<Number_of_Preferred_Rooms>3</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintSubjectPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Subject>COR 2201 Corporate Finance I</Subject>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>LT 02</Preferred_Room>
+	<Preferred_Room>Room 3</Preferred_Room>
+	<Preferred_Room>Room 4</Preferred_Room>
+	<Preferred_Room>LT 01</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintSubjectPreferredRooms>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>1</Activity_Id>
+	<Room>CompLab 03</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>2</Activity_Id>
+	<Room>CompLab 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>3</Activity_Id>
+	<Room>CompLab 02</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>6</Activity_Id>
+	<Room>Lab 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>7</Activity_Id>
+	<Room>Lab 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>8</Activity_Id>
+	<Room>Room 7</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>9</Activity_Id>
+	<Room>CompLab 03</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>10</Activity_Id>
+	<Room>CompLab 03</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>11</Activity_Id>
+	<Room>CompLab 03</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>12</Activity_Id>
+	<Room>CompLab 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>13</Activity_Id>
+	<Room>Lab 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>14</Activity_Id>
+	<Room>CompLab 02</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>15</Activity_Id>
+	<Room>CompLab 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>17</Activity_Id>
+	<Room>CompLab 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>18</Activity_Id>
+	<Room>CompLab 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>19</Activity_Id>
+	<Room>Room 3</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>20</Activity_Id>
+	<Room>LT 04</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>21</Activity_Id>
+	<Room>Room 8</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>22</Activity_Id>
+	<Room>Lab 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>23</Activity_Id>
+	<Room>CompLab 03</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>24</Activity_Id>
+	<Room>CompLab 02</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>25</Activity_Id>
+	<Room>CompLab 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>26</Activity_Id>
+	<Room>CompLab 02</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>27</Activity_Id>
+	<Room>Lab 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>28</Activity_Id>
+	<Room>CompLab 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>29</Activity_Id>
+	<Room>CompLab 02</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>31</Activity_Id>
+	<Room>CompLab 03</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>33</Activity_Id>
+	<Room>Room 7</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>34</Activity_Id>
+	<Room>LT 02</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>37</Activity_Id>
+	<Room>Room 8</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>38</Activity_Id>
+	<Room>Room 4</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>39</Activity_Id>
+	<Room>Room 4</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>40</Activity_Id>
+	<Room>LT 02</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>41</Activity_Id>
+	<Room>Main Hall</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>42</Activity_Id>
+	<Room>Main Hall</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>43</Activity_Id>
+	<Room>Main Hall</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>45</Activity_Id>
+	<Room>LT 05</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>47</Activity_Id>
+	<Room>LT 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>48</Activity_Id>
+	<Room>LT 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>51</Activity_Id>
+	<Room>LT 02</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>52</Activity_Id>
+	<Room>LT 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>53</Activity_Id>
+	<Room>Boardroom</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>54</Activity_Id>
+	<Room>LT 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>55</Activity_Id>
+	<Room>Room 8</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>56</Activity_Id>
+	<Room>LT 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>57</Activity_Id>
+	<Room>LT 05</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>59</Activity_Id>
+	<Room>Boardroom</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>60</Activity_Id>
+	<Room>LT 02</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>61</Activity_Id>
+	<Room>Room 4</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>63</Activity_Id>
+	<Room>LT 04</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>65</Activity_Id>
+	<Room>Room 8</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>66</Activity_Id>
+	<Room>LT 02</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>69</Activity_Id>
+	<Room>Room 3</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>71</Activity_Id>
+	<Room>LT 02</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>73</Activity_Id>
+	<Room>LT 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>76</Activity_Id>
+	<Room>LT 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>81</Activity_Id>
+	<Room>LT 05</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>82</Activity_Id>
+	<Room>Room 3</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>84</Activity_Id>
+	<Room>Room 4</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>85</Activity_Id>
+	<Room>LT 04</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>86</Activity_Id>
+	<Room>LT 05</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>87</Activity_Id>
+	<Room>Room 3</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>88</Activity_Id>
+	<Room>Room 7</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>90</Activity_Id>
+	<Room>LT 04</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>98</Activity_Id>
+	<Room>Lab 02</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>99</Activity_Id>
+	<Room>Room 7</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100</Activity_Id>
+	<Room>LT 02</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>101</Activity_Id>
+	<Room>LT 01</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>102</Activity_Id>
+	<Room>Room 4</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>105</Activity_Id>
+	<Room>Room 3</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>106</Activity_Id>
+	<Room>Room 4</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>107</Activity_Id>
+	<Room>Boardroom</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>108</Activity_Id>
+	<Room>Main Hall</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+</Space_Constraints_List>
+
+</fet>
